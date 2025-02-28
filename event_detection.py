@@ -83,10 +83,10 @@ class SensorDataBuffer:
         self.start_time = time.time() * 1000  # ms
         
         # Thresholds
-        self.motion_threshold = 0.06
+        self.motion_threshold = 0.02
         self.tilt_threshold = 7
-        self.pressure_threshold = 120
-        self.light_threshold = 40
+        self.pressure_threshold = 60
+        self.light_threshold = 20
         self.min_event_duration = 1500  # ms
     
     def get_relative_time(self):
@@ -158,7 +158,7 @@ class SensorDataBuffer:
         if not self.r:
             return
         
-        r_weight, p_weight, y_weight = 1.0, 1.0, 0.3
+        r_weight, p_weight, y_weight = 1.0, 1.0, 1.0
         
         r_diff = r_weight * (self.r[-1] - self.rest_r)
         p_diff = p_weight * (self.p[-1] - self.rest_p)
