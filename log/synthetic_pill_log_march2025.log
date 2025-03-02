@@ -1,0 +1,1162 @@
+2025-03-01 07:06:49 - PILL EVENT DETECTED
+Pill Event: Time 1m 6.4s
+  - Within Pick-Place window: 65.3s to 68.3s
+  - 3D Tilt: 40.95
+  - Orientation: Roll=-12.86°, Pitch=-15.81°, Yaw=45.12°
+  - Pressure: 629 at 66.8s
+  - Light: 195.21 lux at 66.4s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-01 07:06:49 - Actual time of event: 2025-03-01 07:06:49
+2025-03-01 07:06:52 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 9.7s
+  - Pill taken at: 66.4s
+  - Confirmation delay: 3.3s
+2025-03-01 07:06:52 - Actual time of swallow confirmation: 2025-03-01 07:06:52
+2025-03-01 14:57:27 - PILL EVENT DETECTED
+Pill Event: Time 0m 37.6s
+  - Within Pick-Place window: 34.9s to 39.7s
+  - 3D Tilt: 39.55
+  - Orientation: Roll=-0.63°, Pitch=-6.52°, Yaw=53.91°
+  - Pressure: 491 at 35.5s
+  - Light: 544.58 lux at 37.6s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-01 14:57:27 - Actual time of event: 2025-03-01 14:57:27
+2025-03-01 14:57:29 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 0m 40.5s
+  - Pill taken at: 37.6s
+  - Confirmation delay: 2.9s
+2025-03-01 14:57:29 - Actual time of swallow confirmation: 2025-03-01 14:57:29
+2025-03-01 19:43:44 - PILL EVENT DETECTED
+Pill Event: Time 2m 7.0s
+  - Within Pick-Place window: 124.5s to 130.3s
+  - 3D Tilt: 18.39
+  - Orientation: Roll=29.32°, Pitch=-1.89°, Yaw=80.36°
+  - Pressure: 607 at 127.0s
+  - Light: 428.84 lux at 127.0s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-01 19:43:44 - Actual time of event: 2025-03-01 19:43:44
+2025-03-01 19:43:49 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 2m 13.0s
+  - Pill taken at: 127.0s
+  - Confirmation delay: 5.9s
+2025-03-01 19:43:49 - Actual time of swallow confirmation: 2025-03-01 19:43:49
+2025-03-02 07:18:59 - PILL EVENT DETECTED
+Pill Event: Time 1m 1.8s
+  - Within Pick-Place window: 59.0s to 66.2s
+  - 3D Tilt: 16.60
+  - Orientation: Roll=-14.05°, Pitch=-11.32°, Yaw=43.99°
+  - Pressure: 549 at 59.5s
+  - Light: 600.57 lux at 61.8s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-02 07:18:59 - Actual time of event: 2025-03-02 07:18:59
+2025-03-02 07:19:04 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 7.0s
+  - Pill taken at: 61.8s
+  - Confirmation delay: 5.2s
+2025-03-02 07:19:04 - Actual time of swallow confirmation: 2025-03-02 07:19:04
+2025-03-02 14:56:57 - PILL EVENT DETECTED
+Pill Event: Time 2m 8.8s
+  - Within Pick-Place window: 125.3s to 132.1s
+  - 3D Tilt: 17.50
+  - Orientation: Roll=14.45°, Pitch=-3.98°, Yaw=52.24°
+  - Pressure: 608 at 127.3s
+  - Light: 347.32 lux at 128.8s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-02 14:56:57 - Actual time of event: 2025-03-02 14:56:57
+2025-03-02 14:57:02 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 2m 14.5s
+  - Pill taken at: 128.8s
+  - Confirmation delay: 5.6s
+2025-03-02 14:57:02 - Actual time of swallow confirmation: 2025-03-02 14:57:02
+2025-03-02 19:02:32 - PILL EVENT DETECTED
+Pill Event: Time 0m 54.6s
+  - Within Pick-Place window: 51.0s to 57.2s
+  - 3D Tilt: 43.76
+  - Orientation: Roll=26.35°, Pitch=-7.97°, Yaw=43.31°
+  - Pressure: 635 at 53.7s
+  - Light: 605.71 lux at 54.6s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-02 19:02:32 - Actual time of event: 2025-03-02 19:02:32
+2025-03-02 19:02:35 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 0m 58.2s
+  - Pill taken at: 54.6s
+  - Confirmation delay: 3.6s
+2025-03-02 19:02:35 - Actual time of swallow confirmation: 2025-03-02 19:02:35
+2025-03-03 09:33:17 - PILL EVENT DETECTED
+Pill Event: Time 2m 9.7s
+  - Within Pick-Place window: 126.7s to 131.1s
+  - 3D Tilt: 33.86
+  - Orientation: Roll=22.29°, Pitch=-7.15°, Yaw=69.18°
+  - Pressure: 582 at 126.8s
+  - Light: 264.05 lux at 129.7s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-03 09:33:17 - Actual time of event: 2025-03-03 09:33:17
+2025-03-03 09:33:22 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 2m 14.7s
+  - Pill taken at: 129.7s
+  - Confirmation delay: 5.0s
+2025-03-03 09:33:22 - Actual time of swallow confirmation: 2025-03-03 09:33:22
+2025-03-03 13:55:16 - PILL EVENT DETECTED
+Pill Event: Time 1m 54.7s
+  - Within Pick-Place window: 113.6s to 118.6s
+  - 3D Tilt: 35.87
+  - Orientation: Roll=-3.07°, Pitch=-2.12°, Yaw=63.40°
+  - Pressure: 554 at 115.7s
+  - Light: 654.96 lux at 114.7s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-03 13:55:16 - Actual time of event: 2025-03-03 13:55:16
+2025-03-03 13:55:19 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 58.3s
+  - Pill taken at: 114.7s
+  - Confirmation delay: 3.6s
+2025-03-03 13:55:19 - Actual time of swallow confirmation: 2025-03-03 13:55:19
+2025-03-03 20:55:01 - PILL EVENT DETECTED
+Pill Event: Time 1m 43.8s
+  - Within Pick-Place window: 100.8s to 105.2s
+  - 3D Tilt: 26.91
+  - Orientation: Roll=-9.45°, Pitch=-15.26°, Yaw=40.16°
+  - Pressure: 557 at 102.7s
+  - Light: 655.38 lux at 103.8s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-03 20:55:01 - Actual time of event: 2025-03-03 20:55:01
+2025-03-03 20:55:05 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 48.3s
+  - Pill taken at: 103.8s
+  - Confirmation delay: 4.5s
+2025-03-03 20:55:05 - Actual time of swallow confirmation: 2025-03-03 20:55:05
+2025-03-04 08:42:06 - PILL EVENT DETECTED
+Pill Event: Time 1m 13.7s
+  - Within Pick-Place window: 72.3s to 76.2s
+  - 3D Tilt: 41.69
+  - Orientation: Roll=7.76°, Pitch=3.36°, Yaw=66.52°
+  - Pressure: 490 at 75.3s
+  - Light: 461.45 lux at 73.7s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-04 08:42:06 - Actual time of event: 2025-03-04 08:42:06
+2025-03-04 08:42:09 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 17.2s
+  - Pill taken at: 73.7s
+  - Confirmation delay: 3.5s
+2025-03-04 08:42:09 - Actual time of swallow confirmation: 2025-03-04 08:42:09
+2025-03-04 13:05:46 - PILL EVENT DETECTED
+Pill Event: Time 1m 18.6s
+  - Within Pick-Place window: 77.1s to 82.2s
+  - 3D Tilt: 45.73
+  - Orientation: Roll=36.29°, Pitch=-17.43°, Yaw=64.30°
+  - Pressure: 507 at 79.9s
+  - Light: 658.55 lux at 78.6s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-04 13:05:46 - Actual time of event: 2025-03-04 13:05:46
+2025-03-04 13:05:50 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 23.2s
+  - Pill taken at: 78.6s
+  - Confirmation delay: 4.6s
+2025-03-04 13:05:50 - Actual time of swallow confirmation: 2025-03-04 13:05:50
+2025-03-04 20:45:38 - PILL EVENT DETECTED
+Pill Event: Time 1m 3.9s
+  - Within Pick-Place window: 60.2s to 66.4s
+  - 3D Tilt: 29.81
+  - Orientation: Roll=-15.17°, Pitch=-3.82°, Yaw=76.50°
+  - Pressure: 541 at 62.9s
+  - Light: 520.73 lux at 63.9s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-04 20:45:38 - Actual time of event: 2025-03-04 20:45:38
+2025-03-04 20:45:41 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 7.4s
+  - Pill taken at: 63.9s
+  - Confirmation delay: 3.5s
+2025-03-04 20:45:41 - Actual time of swallow confirmation: 2025-03-04 20:45:41
+2025-03-05 07:05:44 - PILL EVENT DETECTED
+Pill Event: Time 1m 59.6s
+  - Within Pick-Place window: 115.2s to 120.9s
+  - 3D Tilt: 35.59
+  - Orientation: Roll=-13.89°, Pitch=-13.39°, Yaw=43.55°
+  - Pressure: 505 at 115.9s
+  - Light: 269.05 lux at 119.6s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-05 07:05:44 - Actual time of event: 2025-03-05 07:05:44
+2025-03-05 07:05:47 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 2m 3.0s
+  - Pill taken at: 119.6s
+  - Confirmation delay: 3.4s
+2025-03-05 07:05:47 - Actual time of swallow confirmation: 2025-03-05 07:05:47
+2025-03-05 12:36:07 - PILL EVENT DETECTED
+Pill Event: Time 0m 40.9s
+  - Within Pick-Place window: 39.6s to 43.7s
+  - 3D Tilt: 40.32
+  - Orientation: Roll=31.77°, Pitch=-2.71°, Yaw=52.15°
+  - Pressure: 611 at 40.8s
+  - Light: 569.90 lux at 40.9s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-05 12:36:07 - Actual time of event: 2025-03-05 12:36:07
+2025-03-05 12:36:12 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 0m 46.4s
+  - Pill taken at: 40.9s
+  - Confirmation delay: 5.4s
+2025-03-05 12:36:12 - Actual time of swallow confirmation: 2025-03-05 12:36:12
+2025-03-05 21:03:52 - PILL EVENT DETECTED
+Pill Event: Time 0m 40.9s
+  - Within Pick-Place window: 38.1s to 43.6s
+  - 3D Tilt: 37.87
+  - Orientation: Roll=15.23°, Pitch=-18.18°, Yaw=76.41°
+  - Pressure: 517 at 39.0s
+  - Light: 279.30 lux at 40.9s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-05 21:03:52 - Actual time of event: 2025-03-05 21:03:52
+2025-03-05 21:03:58 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 0m 47.1s
+  - Pill taken at: 40.9s
+  - Confirmation delay: 6.2s
+2025-03-05 21:03:58 - Actual time of swallow confirmation: 2025-03-05 21:03:58
+2025-03-06 09:30:16 - PILL EVENT DETECTED
+Pill Event: Time 1m 53.4s
+  - Within Pick-Place window: 111.7s to 116.3s
+  - 3D Tilt: 18.43
+  - Orientation: Roll=15.65°, Pitch=-3.78°, Yaw=40.74°
+  - Pressure: 513 at 112.3s
+  - Light: 631.71 lux at 113.4s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-06 09:30:16 - Actual time of event: 2025-03-06 09:30:16
+2025-03-06 09:30:18 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 56.1s
+  - Pill taken at: 113.4s
+  - Confirmation delay: 2.7s
+2025-03-06 09:30:18 - Actual time of swallow confirmation: 2025-03-06 09:30:18
+2025-03-06 13:43:29 - PILL EVENT DETECTED
+Pill Event: Time 2m 5.3s
+  - Within Pick-Place window: 120.3s to 128.5s
+  - 3D Tilt: 15.08
+  - Orientation: Roll=-2.67°, Pitch=7.80°, Yaw=79.26°
+  - Pressure: 563 at 122.5s
+  - Light: 369.96 lux at 125.3s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-06 13:43:29 - Actual time of event: 2025-03-06 13:43:29
+2025-03-06 13:43:32 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 2m 9.0s
+  - Pill taken at: 125.3s
+  - Confirmation delay: 3.7s
+2025-03-06 13:43:32 - Actual time of swallow confirmation: 2025-03-06 13:43:32
+2025-03-06 18:15:58 - PILL EVENT DETECTED
+Pill Event: Time 2m 1.1s
+  - Within Pick-Place window: 118.0s to 122.4s
+  - 3D Tilt: 35.27
+  - Orientation: Roll=7.95°, Pitch=2.44°, Yaw=42.86°
+  - Pressure: 639 at 119.5s
+  - Light: 397.93 lux at 121.1s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-06 18:15:58 - Actual time of event: 2025-03-06 18:15:58
+2025-03-06 18:16:08 - POSSIBLE FORGOTTEN PILL
+POSSIBLE FORGOTTEN PILL: Time 2m 11.1s
+  - Pill taken at: 121.1s
+  - No swallow confirmation received within 10.0s window
+2025-03-06 18:16:08 - Actual time of forget event: 2025-03-06 18:16:08
+2025-03-07 07:18:33 - PILL EVENT DETECTED
+Pill Event: Time 0m 24.4s
+  - Within Pick-Place window: 23.0s to 28.0s
+  - 3D Tilt: 38.63
+  - Orientation: Roll=-13.54°, Pitch=-16.40°, Yaw=84.51°
+  - Pressure: 553 at 24.7s
+  - Light: 451.04 lux at 24.4s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-07 07:18:33 - Actual time of event: 2025-03-07 07:18:33
+2025-03-07 07:18:36 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 0m 27.9s
+  - Pill taken at: 24.4s
+  - Confirmation delay: 3.5s
+2025-03-07 07:18:36 - Actual time of swallow confirmation: 2025-03-07 07:18:36
+2025-03-07 13:25:47 - PILL EVENT DETECTED
+Pill Event: Time 2m 2.9s
+  - Within Pick-Place window: 121.9s to 126.4s
+  - 3D Tilt: 23.35
+  - Orientation: Roll=-2.29°, Pitch=0.15°, Yaw=55.00°
+  - Pressure: 570 at 123.6s
+  - Light: 633.09 lux at 122.9s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-07 13:25:47 - Actual time of event: 2025-03-07 13:25:47
+2025-03-07 13:25:51 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 2m 7.6s
+  - Pill taken at: 122.9s
+  - Confirmation delay: 4.7s
+2025-03-07 13:25:51 - Actual time of swallow confirmation: 2025-03-07 13:25:51
+2025-03-07 20:18:08 - PILL EVENT DETECTED
+Pill Event: Time 1m 8.2s
+  - Within Pick-Place window: 65.0s to 70.4s
+  - 3D Tilt: 24.28
+  - Orientation: Roll=35.33°, Pitch=6.43°, Yaw=83.96°
+  - Pressure: 584 at 68.0s
+  - Light: 298.19 lux at 68.2s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-07 20:18:08 - Actual time of event: 2025-03-07 20:18:08
+2025-03-07 20:18:12 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 12.8s
+  - Pill taken at: 68.2s
+  - Confirmation delay: 4.6s
+2025-03-07 20:18:12 - Actual time of swallow confirmation: 2025-03-07 20:18:12
+2025-03-08 09:31:26 - PILL EVENT DETECTED
+Pill Event: Time 1m 41.7s
+  - Within Pick-Place window: 100.0s to 103.8s
+  - 3D Tilt: 25.48
+  - Orientation: Roll=16.44°, Pitch=8.17°, Yaw=46.71°
+  - Pressure: 519 at 100.7s
+  - Light: 612.65 lux at 101.7s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-08 09:31:26 - Actual time of event: 2025-03-08 09:31:26
+2025-03-08 09:31:31 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 46.9s
+  - Pill taken at: 101.7s
+  - Confirmation delay: 5.2s
+2025-03-08 09:31:31 - Actual time of swallow confirmation: 2025-03-08 09:31:31
+2025-03-08 13:12:05 - PILL EVENT DETECTED
+Pill Event: Time 0m 24.8s
+  - Within Pick-Place window: 22.5s to 26.4s
+  - 3D Tilt: 32.69
+  - Orientation: Roll=-12.42°, Pitch=7.24°, Yaw=42.54°
+  - Pressure: 598 at 25.5s
+  - Light: 581.26 lux at 24.8s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-08 13:12:05 - Actual time of event: 2025-03-08 13:12:05
+2025-03-08 13:12:09 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 0m 29.1s
+  - Pill taken at: 24.8s
+  - Confirmation delay: 4.3s
+2025-03-08 13:12:09 - Actual time of swallow confirmation: 2025-03-08 13:12:09
+2025-03-08 21:12:41 - PILL EVENT DETECTED
+Pill Event: Time 1m 51.8s
+  - Within Pick-Place window: 108.5s to 113.4s
+  - 3D Tilt: 29.97
+  - Orientation: Roll=-29.32°, Pitch=-17.74°, Yaw=84.16°
+  - Pressure: 528 at 108.9s
+  - Light: 433.71 lux at 111.8s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-08 21:12:41 - Actual time of event: 2025-03-08 21:12:41
+2025-03-08 21:12:47 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 57.9s
+  - Pill taken at: 111.8s
+  - Confirmation delay: 6.1s
+2025-03-08 21:12:47 - Actual time of swallow confirmation: 2025-03-08 21:12:47
+2025-03-09 12:57:21 - PILL EVENT DETECTED
+Pill Event: Time 1m 42.4s
+  - Within Pick-Place window: 97.7s to 104.4s
+  - 3D Tilt: 38.87
+  - Orientation: Roll=16.69°, Pitch=-9.39°, Yaw=67.99°
+  - Pressure: 594 at 98.2s
+  - Light: 656.40 lux at 102.4s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-09 12:57:21 - Actual time of event: 2025-03-09 12:57:21
+2025-03-09 12:57:24 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 45.7s
+  - Pill taken at: 102.4s
+  - Confirmation delay: 3.2s
+2025-03-09 12:57:24 - Actual time of swallow confirmation: 2025-03-09 12:57:24
+2025-03-09 19:52:35 - PILL EVENT DETECTED
+Pill Event: Time 1m 46.6s
+  - Within Pick-Place window: 105.2s to 111.1s
+  - 3D Tilt: 15.87
+  - Orientation: Roll=21.56°, Pitch=-10.03°, Yaw=86.54°
+  - Pressure: 553 at 107.8s
+  - Light: 288.74 lux at 106.6s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-09 19:52:35 - Actual time of event: 2025-03-09 19:52:35
+2025-03-09 19:52:40 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 52.4s
+  - Pill taken at: 106.6s
+  - Confirmation delay: 5.8s
+2025-03-09 19:52:40 - Actual time of swallow confirmation: 2025-03-09 19:52:40
+2025-03-10 08:23:20 - PILL EVENT DETECTED
+Pill Event: Time 1m 55.1s
+  - Within Pick-Place window: 110.2s to 117.2s
+  - 3D Tilt: 43.72
+  - Orientation: Roll=30.99°, Pitch=-13.31°, Yaw=73.00°
+  - Pressure: 592 at 112.1s
+  - Light: 320.70 lux at 115.1s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-10 08:23:20 - Actual time of event: 2025-03-10 08:23:20
+2025-03-10 08:23:26 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 2m 1.5s
+  - Pill taken at: 115.1s
+  - Confirmation delay: 6.4s
+2025-03-10 08:23:26 - Actual time of swallow confirmation: 2025-03-10 08:23:26
+2025-03-10 14:26:25 - PILL EVENT DETECTED
+Pill Event: Time 0m 49.2s
+  - Within Pick-Place window: 47.8s to 51.9s
+  - 3D Tilt: 26.59
+  - Orientation: Roll=-28.07°, Pitch=6.31°, Yaw=53.06°
+  - Pressure: 638 at 50.0s
+  - Light: 650.52 lux at 49.2s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-10 14:26:25 - Actual time of event: 2025-03-10 14:26:25
+2025-03-10 14:26:29 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 0m 54.1s
+  - Pill taken at: 49.2s
+  - Confirmation delay: 4.9s
+2025-03-10 14:26:29 - Actual time of swallow confirmation: 2025-03-10 14:26:29
+2025-03-10 20:19:39 - PILL EVENT DETECTED
+Pill Event: Time 2m 1.8s
+  - Within Pick-Place window: 118.7s to 125.7s
+  - 3D Tilt: 19.05
+  - Orientation: Roll=32.97°, Pitch=-14.30°, Yaw=42.22°
+  - Pressure: 601 at 120.9s
+  - Light: 150.88 lux at 121.8s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-10 20:19:39 - Actual time of event: 2025-03-10 20:19:39
+2025-03-10 20:19:42 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 2m 5.8s
+  - Pill taken at: 121.8s
+  - Confirmation delay: 4.0s
+2025-03-10 20:19:42 - Actual time of swallow confirmation: 2025-03-10 20:19:42
+2025-03-11 08:30:09 - PILL EVENT DETECTED
+Pill Event: Time 1m 4.9s
+  - Within Pick-Place window: 62.3s to 67.1s
+  - 3D Tilt: 36.81
+  - Orientation: Roll=16.44°, Pitch=-16.26°, Yaw=85.00°
+  - Pressure: 619 at 62.7s
+  - Light: 310.83 lux at 64.9s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-11 08:30:09 - Actual time of event: 2025-03-11 08:30:09
+2025-03-11 08:30:15 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 11.2s
+  - Pill taken at: 64.9s
+  - Confirmation delay: 6.3s
+2025-03-11 08:30:15 - Actual time of swallow confirmation: 2025-03-11 08:30:15
+2025-03-11 12:47:31 - PILL EVENT DETECTED
+Pill Event: Time 1m 46.4s
+  - Within Pick-Place window: 103.0s to 108.7s
+  - 3D Tilt: 36.54
+  - Orientation: Roll=-8.93°, Pitch=-3.56°, Yaw=40.02°
+  - Pressure: 563 at 104.3s
+  - Light: 259.29 lux at 106.4s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-11 12:47:31 - Actual time of event: 2025-03-11 12:47:31
+2025-03-11 12:47:35 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 51.0s
+  - Pill taken at: 106.4s
+  - Confirmation delay: 4.5s
+2025-03-11 12:47:35 - Actual time of swallow confirmation: 2025-03-11 12:47:35
+2025-03-11 21:36:44 - PILL EVENT DETECTED
+Pill Event: Time 1m 28.1s
+  - Within Pick-Place window: 86.7s to 92.9s
+  - 3D Tilt: 46.54
+  - Orientation: Roll=25.72°, Pitch=-14.91°, Yaw=44.24°
+  - Pressure: 621 at 87.4s
+  - Light: 495.20 lux at 88.1s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-11 21:36:44 - Actual time of event: 2025-03-11 21:36:44
+2025-03-11 21:36:49 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 33.8s
+  - Pill taken at: 88.1s
+  - Confirmation delay: 5.7s
+2025-03-11 21:36:49 - Actual time of swallow confirmation: 2025-03-11 21:36:49
+2025-03-12 07:12:37 - PILL EVENT DETECTED
+Pill Event: Time 1m 23.3s
+  - Within Pick-Place window: 79.5s to 85.9s
+  - 3D Tilt: 23.57
+  - Orientation: Roll=3.26°, Pitch=5.49°, Yaw=43.64°
+  - Pressure: 596 at 80.6s
+  - Light: 610.79 lux at 83.3s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-12 07:12:37 - Actual time of event: 2025-03-12 07:12:37
+2025-03-12 07:12:42 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 28.6s
+  - Pill taken at: 83.3s
+  - Confirmation delay: 5.3s
+2025-03-12 07:12:42 - Actual time of swallow confirmation: 2025-03-12 07:12:42
+2025-03-12 12:29:06 - PILL EVENT DETECTED
+Pill Event: Time 0m 47.4s
+  - Within Pick-Place window: 43.0s to 50.2s
+  - 3D Tilt: 42.24
+  - Orientation: Roll=-14.68°, Pitch=4.12°, Yaw=74.80°
+  - Pressure: 608 at 45.4s
+  - Light: 176.11 lux at 47.4s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-12 12:29:06 - Actual time of event: 2025-03-12 12:29:06
+2025-03-12 12:29:12 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 0m 53.9s
+  - Pill taken at: 47.4s
+  - Confirmation delay: 6.5s
+2025-03-12 12:29:12 - Actual time of swallow confirmation: 2025-03-12 12:29:12
+2025-03-12 20:42:35 - PILL EVENT DETECTED
+Pill Event: Time 1m 59.8s
+  - Within Pick-Place window: 117.0s to 121.4s
+  - 3D Tilt: 26.11
+  - Orientation: Roll=22.87°, Pitch=-6.72°, Yaw=80.75°
+  - Pressure: 619 at 119.6s
+  - Light: 371.91 lux at 119.8s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-12 20:42:35 - Actual time of event: 2025-03-12 20:42:35
+2025-03-12 20:42:40 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 2m 5.3s
+  - Pill taken at: 119.8s
+  - Confirmation delay: 5.5s
+2025-03-12 20:42:40 - Actual time of swallow confirmation: 2025-03-12 20:42:40
+2025-03-13 09:51:08 - PILL EVENT DETECTED
+Pill Event: Time 1m 19.4s
+  - Within Pick-Place window: 77.9s to 81.3s
+  - 3D Tilt: 23.37
+  - Orientation: Roll=0.79°, Pitch=1.41°, Yaw=51.72°
+  - Pressure: 575 at 79.9s
+  - Light: 316.25 lux at 79.4s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-13 09:51:08 - Actual time of event: 2025-03-13 09:51:08
+2025-03-13 09:51:10 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 22.2s
+  - Pill taken at: 79.4s
+  - Confirmation delay: 2.8s
+2025-03-13 09:51:10 - Actual time of swallow confirmation: 2025-03-13 09:51:10
+2025-03-13 19:51:18 - PILL EVENT DETECTED
+Pill Event: Time 1m 24.2s
+  - Within Pick-Place window: 80.5s to 88.7s
+  - 3D Tilt: 26.58
+  - Orientation: Roll=2.61°, Pitch=-18.13°, Yaw=81.64°
+  - Pressure: 589 at 82.8s
+  - Light: 620.52 lux at 84.2s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-13 19:51:18 - Actual time of event: 2025-03-13 19:51:18
+2025-03-13 19:51:20 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 26.8s
+  - Pill taken at: 84.2s
+  - Confirmation delay: 2.5s
+2025-03-13 19:51:20 - Actual time of swallow confirmation: 2025-03-13 19:51:20
+2025-03-14 08:46:29 - PILL EVENT DETECTED
+Pill Event: Time 1m 58.8s
+  - Within Pick-Place window: 115.8s to 120.9s
+  - 3D Tilt: 44.87
+  - Orientation: Roll=36.74°, Pitch=-7.43°, Yaw=77.38°
+  - Pressure: 629 at 117.3s
+  - Light: 565.93 lux at 118.8s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-14 08:46:29 - Actual time of event: 2025-03-14 08:46:29
+2025-03-14 08:46:34 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 2m 3.9s
+  - Pill taken at: 118.8s
+  - Confirmation delay: 5.2s
+2025-03-14 08:46:34 - Actual time of swallow confirmation: 2025-03-14 08:46:34
+2025-03-14 13:50:24 - PILL EVENT DETECTED
+Pill Event: Time 1m 3.3s
+  - Within Pick-Place window: 60.1s to 64.5s
+  - 3D Tilt: 40.35
+  - Orientation: Roll=28.84°, Pitch=7.59°, Yaw=89.04°
+  - Pressure: 626 at 62.0s
+  - Light: 164.02 lux at 63.3s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-14 13:50:24 - Actual time of event: 2025-03-14 13:50:24
+2025-03-14 13:50:28 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 7.7s
+  - Pill taken at: 63.3s
+  - Confirmation delay: 4.3s
+2025-03-14 13:50:28 - Actual time of swallow confirmation: 2025-03-14 13:50:28
+2025-03-14 18:13:43 - PILL EVENT DETECTED
+Pill Event: Time 2m 4.6s
+  - Within Pick-Place window: 121.9s to 129.0s
+  - 3D Tilt: 24.11
+  - Orientation: Roll=-7.09°, Pitch=-6.36°, Yaw=56.88°
+  - Pressure: 587 at 123.4s
+  - Light: 294.69 lux at 124.6s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-14 18:13:43 - Actual time of event: 2025-03-14 18:13:43
+2025-03-14 18:13:45 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 2m 7.3s
+  - Pill taken at: 124.6s
+  - Confirmation delay: 2.7s
+2025-03-14 18:13:45 - Actual time of swallow confirmation: 2025-03-14 18:13:45
+2025-03-15 14:57:58 - PILL EVENT DETECTED
+Pill Event: Time 1m 12.1s
+  - Within Pick-Place window: 70.6s to 76.9s
+  - 3D Tilt: 16.41
+  - Orientation: Roll=-27.83°, Pitch=-12.58°, Yaw=81.96°
+  - Pressure: 529 at 72.0s
+  - Light: 274.04 lux at 72.1s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-15 14:57:58 - Actual time of event: 2025-03-15 14:57:58
+2025-03-15 14:58:01 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 16.1s
+  - Pill taken at: 72.1s
+  - Confirmation delay: 4.0s
+2025-03-15 14:58:01 - Actual time of swallow confirmation: 2025-03-15 14:58:01
+2025-03-16 07:31:16 - PILL EVENT DETECTED
+Pill Event: Time 1m 59.9s
+  - Within Pick-Place window: 117.4s to 124.6s
+  - 3D Tilt: 42.22
+  - Orientation: Roll=-18.54°, Pitch=-10.67°, Yaw=68.93°
+  - Pressure: 569 at 118.0s
+  - Light: 449.41 lux at 119.9s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-16 07:31:16 - Actual time of event: 2025-03-16 07:31:16
+2025-03-16 07:31:21 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 2m 5.7s
+  - Pill taken at: 119.9s
+  - Confirmation delay: 5.8s
+2025-03-16 07:31:21 - Actual time of swallow confirmation: 2025-03-16 07:31:21
+2025-03-16 13:06:18 - PILL EVENT DETECTED
+Pill Event: Time 1m 22.3s
+  - Within Pick-Place window: 81.1s to 85.4s
+  - 3D Tilt: 18.57
+  - Orientation: Roll=24.07°, Pitch=5.51°, Yaw=70.02°
+  - Pressure: 520 at 83.1s
+  - Light: 564.04 lux at 82.3s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-16 13:06:18 - Actual time of event: 2025-03-16 13:06:18
+2025-03-16 13:06:23 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 27.3s
+  - Pill taken at: 82.3s
+  - Confirmation delay: 5.1s
+2025-03-16 13:06:23 - Actual time of swallow confirmation: 2025-03-16 13:06:23
+2025-03-16 18:03:27 - PILL EVENT DETECTED
+Pill Event: Time 1m 7.9s
+  - Within Pick-Place window: 64.0s to 72.8s
+  - 3D Tilt: 44.74
+  - Orientation: Roll=27.56°, Pitch=-16.83°, Yaw=88.04°
+  - Pressure: 607 at 64.8s
+  - Light: 517.80 lux at 67.9s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-16 18:03:27 - Actual time of event: 2025-03-16 18:03:27
+2025-03-16 18:03:31 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 12.6s
+  - Pill taken at: 67.9s
+  - Confirmation delay: 4.7s
+2025-03-16 18:03:31 - Actual time of swallow confirmation: 2025-03-16 18:03:31
+2025-03-17 08:58:56 - PILL EVENT DETECTED
+Pill Event: Time 1m 9.6s
+  - Within Pick-Place window: 65.6s to 72.9s
+  - 3D Tilt: 43.90
+  - Orientation: Roll=11.47°, Pitch=-10.33°, Yaw=52.27°
+  - Pressure: 512 at 67.6s
+  - Light: 295.04 lux at 69.6s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-17 08:58:56 - Actual time of event: 2025-03-17 08:58:56
+2025-03-17 08:59:00 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 14.1s
+  - Pill taken at: 69.6s
+  - Confirmation delay: 4.5s
+2025-03-17 08:59:00 - Actual time of swallow confirmation: 2025-03-17 08:59:00
+2025-03-17 13:28:45 - PILL EVENT DETECTED
+Pill Event: Time 1m 16.8s
+  - Within Pick-Place window: 75.1s to 78.8s
+  - 3D Tilt: 21.36
+  - Orientation: Roll=-15.15°, Pitch=3.93°, Yaw=57.02°
+  - Pressure: 560 at 76.3s
+  - Light: 439.01 lux at 76.8s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-17 13:28:45 - Actual time of event: 2025-03-17 13:28:45
+2025-03-17 13:28:48 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 20.3s
+  - Pill taken at: 76.8s
+  - Confirmation delay: 3.5s
+2025-03-17 13:28:48 - Actual time of swallow confirmation: 2025-03-17 13:28:48
+2025-03-17 20:10:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 46.8s
+  - Within Pick-Place window: 43.1s to 49.2s
+  - 3D Tilt: 37.61
+  - Orientation: Roll=4.36°, Pitch=3.79°, Yaw=44.65°
+  - Pressure: 546 at 44.8s
+  - Light: 360.29 lux at 46.8s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-17 20:10:00 - Actual time of event: 2025-03-17 20:10:00
+2025-03-17 20:10:06 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 0m 53.3s
+  - Pill taken at: 46.8s
+  - Confirmation delay: 6.5s
+2025-03-17 20:10:06 - Actual time of swallow confirmation: 2025-03-17 20:10:06
+2025-03-18 08:36:04 - PILL EVENT DETECTED
+Pill Event: Time 1m 41.7s
+  - Within Pick-Place window: 96.9s to 105.5s
+  - 3D Tilt: 39.60
+  - Orientation: Roll=-11.04°, Pitch=-12.46°, Yaw=46.03°
+  - Pressure: 539 at 97.5s
+  - Light: 314.08 lux at 101.7s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-18 08:36:04 - Actual time of event: 2025-03-18 08:36:04
+2025-03-18 08:36:07 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 45.3s
+  - Pill taken at: 101.7s
+  - Confirmation delay: 3.6s
+2025-03-18 08:36:07 - Actual time of swallow confirmation: 2025-03-18 08:36:07
+2025-03-18 14:40:59 - PILL EVENT DETECTED
+Pill Event: Time 0m 59.7s
+  - Within Pick-Place window: 57.5s to 63.5s
+  - 3D Tilt: 49.18
+  - Orientation: Roll=6.72°, Pitch=-11.51°, Yaw=45.03°
+  - Pressure: 539 at 57.9s
+  - Light: 304.05 lux at 59.7s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-18 14:40:59 - Actual time of event: 2025-03-18 14:40:59
+2025-03-18 14:41:01 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 2.4s
+  - Pill taken at: 59.7s
+  - Confirmation delay: 2.7s
+2025-03-18 14:41:01 - Actual time of swallow confirmation: 2025-03-18 14:41:01
+2025-03-18 19:19:46 - PILL EVENT DETECTED
+Pill Event: Time 1m 11.6s
+  - Within Pick-Place window: 68.9s to 73.4s
+  - 3D Tilt: 39.41
+  - Orientation: Roll=-21.16°, Pitch=6.05°, Yaw=64.54°
+  - Pressure: 493 at 69.0s
+  - Light: 448.51 lux at 71.6s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-18 19:19:46 - Actual time of event: 2025-03-18 19:19:46
+2025-03-18 19:19:56 - POSSIBLE FORGOTTEN PILL
+POSSIBLE FORGOTTEN PILL: Time 1m 21.6s
+  - Pill taken at: 71.6s
+  - No swallow confirmation received within 10.0s window
+2025-03-18 19:19:56 - Actual time of forget event: 2025-03-18 19:19:56
+2025-03-19 07:17:50 - PILL EVENT DETECTED
+Pill Event: Time 2m 4.4s
+  - Within Pick-Place window: 123.1s to 126.4s
+  - 3D Tilt: 29.02
+  - Orientation: Roll=-24.81°, Pitch=-1.12°, Yaw=42.68°
+  - Pressure: 528 at 124.7s
+  - Light: 571.79 lux at 124.4s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-19 07:17:50 - Actual time of event: 2025-03-19 07:17:50
+2025-03-19 07:17:54 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 2m 9.3s
+  - Pill taken at: 124.4s
+  - Confirmation delay: 4.9s
+2025-03-19 07:17:54 - Actual time of swallow confirmation: 2025-03-19 07:17:54
+2025-03-19 14:48:52 - PILL EVENT DETECTED
+Pill Event: Time 0m 53.6s
+  - Within Pick-Place window: 50.1s to 57.0s
+  - 3D Tilt: 22.90
+  - Orientation: Roll=6.58°, Pitch=-6.48°, Yaw=62.14°
+  - Pressure: 640 at 52.3s
+  - Light: 664.82 lux at 53.6s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-19 14:48:52 - Actual time of event: 2025-03-19 14:48:52
+2025-03-19 14:49:02 - POSSIBLE FORGOTTEN PILL
+POSSIBLE FORGOTTEN PILL: Time 1m 3.6s
+  - Pill taken at: 53.6s
+  - No swallow confirmation received within 10.0s window
+2025-03-19 14:49:02 - Actual time of forget event: 2025-03-19 14:49:02
+2025-03-19 18:56:44 - PILL EVENT DETECTED
+Pill Event: Time 0m 20.3s
+  - Within Pick-Place window: 17.5s to 23.7s
+  - 3D Tilt: 36.89
+  - Orientation: Roll=-11.47°, Pitch=-17.56°, Yaw=51.99°
+  - Pressure: 631 at 18.4s
+  - Light: 189.03 lux at 20.3s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-19 18:56:44 - Actual time of event: 2025-03-19 18:56:44
+2025-03-19 18:56:49 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 0m 25.6s
+  - Pill taken at: 20.3s
+  - Confirmation delay: 5.3s
+2025-03-19 18:56:49 - Actual time of swallow confirmation: 2025-03-19 18:56:49
+2025-03-20 08:03:44 - PILL EVENT DETECTED
+Pill Event: Time 1m 19.9s
+  - Within Pick-Place window: 76.3s to 84.5s
+  - 3D Tilt: 47.34
+  - Orientation: Roll=25.15°, Pitch=-1.25°, Yaw=73.06°
+  - Pressure: 540 at 78.8s
+  - Light: 371.07 lux at 79.9s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-20 08:03:44 - Actual time of event: 2025-03-20 08:03:44
+2025-03-20 08:03:47 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 23.1s
+  - Pill taken at: 79.9s
+  - Confirmation delay: 3.2s
+2025-03-20 08:03:47 - Actual time of swallow confirmation: 2025-03-20 08:03:47
+2025-03-20 19:23:59 - PILL EVENT DETECTED
+Pill Event: Time 1m 37.0s
+  - Within Pick-Place window: 92.2s to 100.0s
+  - 3D Tilt: 35.83
+  - Orientation: Roll=27.70°, Pitch=7.64°, Yaw=61.96°
+  - Pressure: 609 at 93.7s
+  - Light: 508.11 lux at 97.0s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-20 19:23:59 - Actual time of event: 2025-03-20 19:23:59
+2025-03-20 19:24:01 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 39.6s
+  - Pill taken at: 97.0s
+  - Confirmation delay: 2.7s
+2025-03-20 19:24:01 - Actual time of swallow confirmation: 2025-03-20 19:24:01
+2025-03-21 08:28:00 - PILL EVENT DETECTED
+Pill Event: Time 0m 22.3s
+  - Within Pick-Place window: 18.2s to 26.6s
+  - 3D Tilt: 36.13
+  - Orientation: Roll=-28.19°, Pitch=-13.13°, Yaw=73.71°
+  - Pressure: 637 at 20.0s
+  - Light: 455.30 lux at 22.3s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-21 08:28:00 - Actual time of event: 2025-03-21 08:28:00
+2025-03-21 08:28:03 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 0m 25.5s
+  - Pill taken at: 22.3s
+  - Confirmation delay: 3.2s
+2025-03-21 08:28:03 - Actual time of swallow confirmation: 2025-03-21 08:28:03
+2025-03-21 14:21:42 - PILL EVENT DETECTED
+Pill Event: Time 1m 11.7s
+  - Within Pick-Place window: 69.1s to 74.0s
+  - 3D Tilt: 37.80
+  - Orientation: Roll=34.13°, Pitch=-14.56°, Yaw=69.27°
+  - Pressure: 615 at 69.4s
+  - Light: 653.91 lux at 71.7s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-21 14:21:42 - Actual time of event: 2025-03-21 14:21:42
+2025-03-21 14:21:46 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 15.8s
+  - Pill taken at: 71.7s
+  - Confirmation delay: 4.1s
+2025-03-21 14:21:46 - Actual time of swallow confirmation: 2025-03-21 14:21:46
+2025-03-21 20:15:17 - PILL EVENT DETECTED
+Pill Event: Time 0m 47.8s
+  - Within Pick-Place window: 46.3s to 51.9s
+  - 3D Tilt: 25.09
+  - Orientation: Roll=36.16°, Pitch=4.41°, Yaw=67.50°
+  - Pressure: 606 at 48.9s
+  - Light: 195.79 lux at 47.8s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-21 20:15:17 - Actual time of event: 2025-03-21 20:15:17
+2025-03-21 20:15:19 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 0m 50.3s
+  - Pill taken at: 47.8s
+  - Confirmation delay: 2.5s
+2025-03-21 20:15:19 - Actual time of swallow confirmation: 2025-03-21 20:15:19
+2025-03-22 07:14:48 - PILL EVENT DETECTED
+Pill Event: Time 1m 20.4s
+  - Within Pick-Place window: 75.7s to 83.2s
+  - 3D Tilt: 21.57
+  - Orientation: Roll=-4.68°, Pitch=2.69°, Yaw=71.27°
+  - Pressure: 503 at 77.8s
+  - Light: 255.85 lux at 80.4s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-22 07:14:48 - Actual time of event: 2025-03-22 07:14:48
+2025-03-22 07:14:54 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 26.8s
+  - Pill taken at: 80.4s
+  - Confirmation delay: 6.4s
+2025-03-22 07:14:54 - Actual time of swallow confirmation: 2025-03-22 07:14:54
+2025-03-22 20:46:15 - PILL EVENT DETECTED
+Pill Event: Time 2m 9.1s
+  - Within Pick-Place window: 124.5s to 132.0s
+  - 3D Tilt: 42.98
+  - Orientation: Roll=19.68°, Pitch=-10.68°, Yaw=40.68°
+  - Pressure: 594 at 124.8s
+  - Light: 198.47 lux at 129.1s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-22 20:46:15 - Actual time of event: 2025-03-22 20:46:15
+2025-03-22 20:46:19 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 2m 13.6s
+  - Pill taken at: 129.1s
+  - Confirmation delay: 4.5s
+2025-03-22 20:46:19 - Actual time of swallow confirmation: 2025-03-22 20:46:19
+2025-03-23 08:53:27 - PILL EVENT DETECTED
+Pill Event: Time 1m 25.9s
+  - Within Pick-Place window: 81.9s to 87.5s
+  - 3D Tilt: 44.22
+  - Orientation: Roll=38.62°, Pitch=-12.69°, Yaw=67.56°
+  - Pressure: 588 at 82.2s
+  - Light: 249.12 lux at 85.9s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-23 08:53:27 - Actual time of event: 2025-03-23 08:53:27
+2025-03-23 08:53:32 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 31.8s
+  - Pill taken at: 85.9s
+  - Confirmation delay: 5.9s
+2025-03-23 08:53:32 - Actual time of swallow confirmation: 2025-03-23 08:53:32
+2025-03-23 13:32:48 - PILL EVENT DETECTED
+Pill Event: Time 1m 23.8s
+  - Within Pick-Place window: 80.2s to 88.3s
+  - 3D Tilt: 47.70
+  - Orientation: Roll=5.54°, Pitch=4.62°, Yaw=54.14°
+  - Pressure: 566 at 81.5s
+  - Light: 585.49 lux at 83.8s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-23 13:32:48 - Actual time of event: 2025-03-23 13:32:48
+2025-03-23 13:32:51 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 27.6s
+  - Pill taken at: 83.8s
+  - Confirmation delay: 3.8s
+2025-03-23 13:32:51 - Actual time of swallow confirmation: 2025-03-23 13:32:51
+2025-03-24 08:27:52 - PILL EVENT DETECTED
+Pill Event: Time 1m 41.9s
+  - Within Pick-Place window: 98.1s to 106.2s
+  - 3D Tilt: 45.44
+  - Orientation: Roll=38.65°, Pitch=-12.84°, Yaw=59.15°
+  - Pressure: 595 at 99.3s
+  - Light: 172.70 lux at 101.9s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-24 08:27:52 - Actual time of event: 2025-03-24 08:27:52
+2025-03-24 08:27:57 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 47.7s
+  - Pill taken at: 101.9s
+  - Confirmation delay: 5.8s
+2025-03-24 08:27:57 - Actual time of swallow confirmation: 2025-03-24 08:27:57
+2025-03-24 18:41:32 - PILL EVENT DETECTED
+Pill Event: Time 1m 8.4s
+  - Within Pick-Place window: 65.3s to 71.3s
+  - 3D Tilt: 32.34
+  - Orientation: Roll=-27.41°, Pitch=-4.93°, Yaw=69.51°
+  - Pressure: 515 at 67.5s
+  - Light: 604.58 lux at 68.4s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-24 18:41:32 - Actual time of event: 2025-03-24 18:41:32
+2025-03-24 18:41:37 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 13.6s
+  - Pill taken at: 68.4s
+  - Confirmation delay: 5.1s
+2025-03-24 18:41:37 - Actual time of swallow confirmation: 2025-03-24 18:41:37
+2025-03-25 09:08:12 - PILL EVENT DETECTED
+Pill Event: Time 1m 53.8s
+  - Within Pick-Place window: 109.3s to 116.3s
+  - 3D Tilt: 42.35
+  - Orientation: Roll=-11.45°, Pitch=-1.30°, Yaw=59.87°
+  - Pressure: 510 at 110.3s
+  - Light: 592.92 lux at 113.8s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-25 09:08:12 - Actual time of event: 2025-03-25 09:08:12
+2025-03-25 09:08:17 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 59.3s
+  - Pill taken at: 113.8s
+  - Confirmation delay: 5.5s
+2025-03-25 09:08:17 - Actual time of swallow confirmation: 2025-03-25 09:08:17
+2025-03-25 14:27:44 - PILL EVENT DETECTED
+Pill Event: Time 1m 7.7s
+  - Within Pick-Place window: 66.3s to 71.3s
+  - 3D Tilt: 16.26
+  - Orientation: Roll=-25.21°, Pitch=-1.07°, Yaw=86.05°
+  - Pressure: 548 at 69.0s
+  - Light: 538.32 lux at 67.7s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-25 14:27:44 - Actual time of event: 2025-03-25 14:27:44
+2025-03-25 14:27:49 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 13.0s
+  - Pill taken at: 67.7s
+  - Confirmation delay: 5.3s
+2025-03-25 14:27:49 - Actual time of swallow confirmation: 2025-03-25 14:27:49
+2025-03-25 18:07:54 - PILL EVENT DETECTED
+Pill Event: Time 1m 5.3s
+  - Within Pick-Place window: 61.6s to 67.0s
+  - 3D Tilt: 16.61
+  - Orientation: Roll=25.73°, Pitch=-11.20°, Yaw=58.74°
+  - Pressure: 527 at 62.1s
+  - Light: 276.98 lux at 65.3s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-25 18:07:54 - Actual time of event: 2025-03-25 18:07:54
+2025-03-25 18:07:58 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 9.4s
+  - Pill taken at: 65.3s
+  - Confirmation delay: 4.0s
+2025-03-25 18:07:58 - Actual time of swallow confirmation: 2025-03-25 18:07:58
+2025-03-26 09:15:53 - PILL EVENT DETECTED
+Pill Event: Time 1m 58.9s
+  - Within Pick-Place window: 116.0s to 121.0s
+  - 3D Tilt: 46.95
+  - Orientation: Roll=-19.98°, Pitch=-6.17°, Yaw=52.70°
+  - Pressure: 555 at 117.7s
+  - Light: 496.76 lux at 118.9s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-26 09:15:53 - Actual time of event: 2025-03-26 09:15:53
+2025-03-26 09:15:59 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 2m 5.2s
+  - Pill taken at: 118.9s
+  - Confirmation delay: 6.3s
+2025-03-26 09:15:59 - Actual time of swallow confirmation: 2025-03-26 09:15:59
+2025-03-26 14:40:26 - PILL EVENT DETECTED
+Pill Event: Time 1m 2.3s
+  - Within Pick-Place window: 59.4s to 64.3s
+  - 3D Tilt: 25.47
+  - Orientation: Roll=37.34°, Pitch=0.71°, Yaw=62.84°
+  - Pressure: 567 at 61.1s
+  - Light: 253.59 lux at 62.3s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-26 14:40:26 - Actual time of event: 2025-03-26 14:40:26
+2025-03-26 14:40:32 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 8.8s
+  - Pill taken at: 62.3s
+  - Confirmation delay: 6.5s
+2025-03-26 14:40:32 - Actual time of swallow confirmation: 2025-03-26 14:40:32
+2025-03-26 19:20:37 - PILL EVENT DETECTED
+Pill Event: Time 1m 42.0s
+  - Within Pick-Place window: 97.6s to 106.6s
+  - 3D Tilt: 15.77
+  - Orientation: Roll=28.10°, Pitch=-8.13°, Yaw=40.40°
+  - Pressure: 502 at 100.0s
+  - Light: 623.52 lux at 102.0s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-26 19:20:37 - Actual time of event: 2025-03-26 19:20:37
+2025-03-26 19:20:42 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 47.7s
+  - Pill taken at: 102.0s
+  - Confirmation delay: 5.7s
+2025-03-26 19:20:42 - Actual time of swallow confirmation: 2025-03-26 19:20:42
+2025-03-27 07:51:55 - PILL EVENT DETECTED
+Pill Event: Time 1m 59.4s
+  - Within Pick-Place window: 115.8s to 121.6s
+  - 3D Tilt: 36.73
+  - Orientation: Roll=17.44°, Pitch=1.63°, Yaw=72.96°
+  - Pressure: 525 at 117.1s
+  - Light: 476.69 lux at 119.4s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-27 07:51:55 - Actual time of event: 2025-03-27 07:51:55
+2025-03-27 07:52:00 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 2m 4.8s
+  - Pill taken at: 119.4s
+  - Confirmation delay: 5.4s
+2025-03-27 07:52:00 - Actual time of swallow confirmation: 2025-03-27 07:52:00
+2025-03-27 12:24:36 - PILL EVENT DETECTED
+Pill Event: Time 1m 0.2s
+  - Within Pick-Place window: 57.2s to 62.3s
+  - 3D Tilt: 46.84
+  - Orientation: Roll=-7.13°, Pitch=-7.53°, Yaw=50.04°
+  - Pressure: 628 at 57.7s
+  - Light: 605.76 lux at 60.2s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-27 12:24:36 - Actual time of event: 2025-03-27 12:24:36
+2025-03-27 12:24:46 - POSSIBLE FORGOTTEN PILL
+POSSIBLE FORGOTTEN PILL: Time 1m 10.2s
+  - Pill taken at: 60.2s
+  - No swallow confirmation received within 10.0s window
+2025-03-27 12:24:46 - Actual time of forget event: 2025-03-27 12:24:46
+2025-03-27 20:11:34 - PILL EVENT DETECTED
+Pill Event: Time 0m 35.5s
+  - Within Pick-Place window: 30.6s to 39.9s
+  - 3D Tilt: 48.86
+  - Orientation: Roll=-9.34°, Pitch=6.11°, Yaw=80.21°
+  - Pressure: 609 at 32.8s
+  - Light: 650.70 lux at 35.5s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-27 20:11:34 - Actual time of event: 2025-03-27 20:11:34
+2025-03-27 20:11:44 - POSSIBLE FORGOTTEN PILL
+POSSIBLE FORGOTTEN PILL: Time 0m 45.5s
+  - Pill taken at: 35.5s
+  - No swallow confirmation received within 10.0s window
+2025-03-27 20:11:44 - Actual time of forget event: 2025-03-27 20:11:44
+2025-03-28 07:24:39 - PILL EVENT DETECTED
+Pill Event: Time 1m 50.5s
+  - Within Pick-Place window: 105.7s to 111.9s
+  - 3D Tilt: 42.67
+  - Orientation: Roll=-29.03°, Pitch=-3.90°, Yaw=62.74°
+  - Pressure: 557 at 106.4s
+  - Light: 453.97 lux at 110.5s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-28 07:24:39 - Actual time of event: 2025-03-28 07:24:39
+2025-03-28 07:24:45 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 56.5s
+  - Pill taken at: 110.5s
+  - Confirmation delay: 6.0s
+2025-03-28 07:24:45 - Actual time of swallow confirmation: 2025-03-28 07:24:45
+2025-03-29 09:46:35 - PILL EVENT DETECTED
+Pill Event: Time 0m 32.8s
+  - Within Pick-Place window: 31.7s to 34.0s
+  - 3D Tilt: 22.75
+  - Orientation: Roll=-25.57°, Pitch=4.72°, Yaw=85.47°
+  - Pressure: 567 at 34.6s
+  - Light: 487.60 lux at 32.8s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-29 09:46:35 - Actual time of event: 2025-03-29 09:46:35
+2025-03-29 09:46:38 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 0m 36.3s
+  - Pill taken at: 32.8s
+  - Confirmation delay: 3.4s
+2025-03-29 09:46:38 - Actual time of swallow confirmation: 2025-03-29 09:46:38
+2025-03-29 14:26:47 - PILL EVENT DETECTED
+Pill Event: Time 1m 41.6s
+  - Within Pick-Place window: 100.0s to 104.3s
+  - 3D Tilt: 19.75
+  - Orientation: Roll=1.76°, Pitch=0.11°, Yaw=77.16°
+  - Pressure: 628 at 100.3s
+  - Light: 367.95 lux at 101.6s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-29 14:26:47 - Actual time of event: 2025-03-29 14:26:47
+2025-03-29 14:26:51 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 45.8s
+  - Pill taken at: 101.6s
+  - Confirmation delay: 4.1s
+2025-03-29 14:26:51 - Actual time of swallow confirmation: 2025-03-29 14:26:51
+2025-03-29 19:16:23 - PILL EVENT DETECTED
+Pill Event: Time 1m 35.4s
+  - Within Pick-Place window: 92.2s to 100.3s
+  - 3D Tilt: 16.15
+  - Orientation: Roll=-4.06°, Pitch=-6.70°, Yaw=87.53°
+  - Pressure: 582 at 93.3s
+  - Light: 201.66 lux at 95.4s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-29 19:16:23 - Actual time of event: 2025-03-29 19:16:23
+2025-03-29 19:16:26 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 38.7s
+  - Pill taken at: 95.4s
+  - Confirmation delay: 3.3s
+2025-03-29 19:16:26 - Actual time of swallow confirmation: 2025-03-29 19:16:26
+2025-03-30 09:04:10 - PILL EVENT DETECTED
+Pill Event: Time 0m 46.8s
+  - Within Pick-Place window: 45.3s to 50.1s
+  - 3D Tilt: 18.21
+  - Orientation: Roll=-15.15°, Pitch=-0.82°, Yaw=88.55°
+  - Pressure: 502 at 45.5s
+  - Light: 559.13 lux at 46.8s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-30 09:04:10 - Actual time of event: 2025-03-30 09:04:10
+2025-03-30 09:04:13 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 0m 50.1s
+  - Pill taken at: 46.8s
+  - Confirmation delay: 3.3s
+2025-03-30 09:04:13 - Actual time of swallow confirmation: 2025-03-30 09:04:13
+2025-03-30 12:58:58 - PILL EVENT DETECTED
+Pill Event: Time 2m 8.2s
+  - Within Pick-Place window: 123.3s to 131.4s
+  - 3D Tilt: 43.46
+  - Orientation: Roll=-13.69°, Pitch=3.23°, Yaw=79.43°
+  - Pressure: 490 at 125.7s
+  - Light: 294.18 lux at 128.2s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-30 12:58:58 - Actual time of event: 2025-03-30 12:58:58
+2025-03-30 12:59:03 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 2m 14.2s
+  - Pill taken at: 128.2s
+  - Confirmation delay: 6.0s
+2025-03-30 12:59:03 - Actual time of swallow confirmation: 2025-03-30 12:59:03
+2025-03-30 18:35:59 - PILL EVENT DETECTED
+Pill Event: Time 0m 33.9s
+  - Within Pick-Place window: 31.3s to 35.4s
+  - 3D Tilt: 15.52
+  - Orientation: Roll=25.30°, Pitch=-12.86°, Yaw=56.19°
+  - Pressure: 534 at 31.5s
+  - Light: 287.99 lux at 33.9s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-30 18:35:59 - Actual time of event: 2025-03-30 18:35:59
+2025-03-30 18:36:02 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 0m 37.9s
+  - Pill taken at: 33.9s
+  - Confirmation delay: 3.9s
+2025-03-30 18:36:02 - Actual time of swallow confirmation: 2025-03-30 18:36:02
+2025-03-31 09:03:25 - PILL EVENT DETECTED
+Pill Event: Time 1m 30.8s
+  - Within Pick-Place window: 89.6s to 95.8s
+  - 3D Tilt: 32.63
+  - Orientation: Roll=36.18°, Pitch=-18.70°, Yaw=79.16°
+  - Pressure: 623 at 92.2s
+  - Light: 306.85 lux at 90.8s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-31 09:03:25 - Actual time of event: 2025-03-31 09:03:25
+2025-03-31 09:03:27 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 33.7s
+  - Pill taken at: 90.8s
+  - Confirmation delay: 2.9s
+2025-03-31 09:03:27 - Actual time of swallow confirmation: 2025-03-31 09:03:27
+2025-03-31 14:01:07 - PILL EVENT DETECTED
+Pill Event: Time 1m 24.4s
+  - Within Pick-Place window: 80.5s to 86.9s
+  - 3D Tilt: 17.57
+  - Orientation: Roll=-24.34°, Pitch=-1.75°, Yaw=43.28°
+  - Pressure: 560 at 82.3s
+  - Light: 474.65 lux at 84.4s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-31 14:01:07 - Actual time of event: 2025-03-31 14:01:07
+2025-03-31 14:01:11 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 1m 28.9s
+  - Pill taken at: 84.4s
+  - Confirmation delay: 4.5s
+2025-03-31 14:01:11 - Actual time of swallow confirmation: 2025-03-31 14:01:11
+2025-03-31 19:57:28 - PILL EVENT DETECTED
+Pill Event: Time 0m 43.7s
+  - Within Pick-Place window: 40.8s to 45.6s
+  - 3D Tilt: 18.47
+  - Orientation: Roll=19.12°, Pitch=5.58°, Yaw=72.55°
+  - Pressure: 631 at 41.9s
+  - Light: 524.84 lux at 43.7s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-31 19:57:28 - Actual time of event: 2025-03-31 19:57:28
+2025-03-31 19:57:32 - SWALLOW CONFIRMED
+PILL SWALLOW CONFIRMED: Time 0m 47.8s
+  - Pill taken at: 43.7s
+  - Confirmation delay: 4.2s
+2025-03-31 19:57:32 - Actual time of swallow confirmation: 2025-03-31 19:57:32
