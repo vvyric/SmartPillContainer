@@ -1,0 +1,286 @@
+Log initialized
+Timestamp: 2025-03-02 17:31:14
+
+2025-03-02 17:31:14 - Successfully created and writing to log at: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/logs/pill_events_sim_20250302_173114.log
+2025-03-02 17:31:14 - Logging system initialized
+2025-03-02 17:31:14 - LOGGING STARTED
+2025-03-02 17:31:14 - ROS node: /pill_detection_simulation
+2025-03-02 17:31:14 - IMU file: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/data/data_IMU.txt
+2025-03-02 17:31:14 - Pressure/Light file: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/data/data_press_light.txt
+2025-03-02 17:31:14 - Using real data files
+2025-03-02 17:31:14 - Loading IMU data from: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/data/data_IMU.txt
+2025-03-02 17:31:14 - Loading pressure/light data from: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/data/data_press_light.txt
+2025-03-02 17:31:14 - Loaded 1021 IMU data points and 958 pressure/light data points
+2025-03-02 17:31:14 - === DATA SUMMARY ===
+2025-03-02 17:31:14 - IMU Data Range:
+2025-03-02 17:31:14 -   Acceleration (g): ax=[-0.590, 0.500], ay=[-0.410, 0.510], az=[0.780, 1.060]
+2025-03-02 17:31:14 -   Orientation (deg): r=[-36.2, 29.7], p=[-24.5, 30.4], y=[51.1, 90.0]
+2025-03-02 17:31:14 - Pressure/Light Data Range:
+2025-03-02 17:31:14 -   Pressure: [0.0, 575.0]
+2025-03-02 17:31:14 -   Light: [0.0, 87.5]
+2025-03-02 17:31:14 - Suggested Thresholds:
+2025-03-02 17:31:14 -   Motion threshold: 0.076
+2025-03-02 17:31:14 -   Tilt threshold: 32.0
+2025-03-02 17:31:14 -   Pressure threshold: 143.8
+2025-03-02 17:31:14 -   Light threshold: 21.9
+2025-03-02 17:31:14 - Using thresholds: motion=0.076, tilt=32.0, pressure=143.8, light=21.9
+2025-03-02 17:31:14 - Using thresholds: motion=0.076, tilt=32.0, pressure=143.8, light=21.9
+2025-03-02 17:31:14 - INFO - Data loaded successfully: 1021 IMU points, 958 pressure/light points
+2025-03-02 17:31:14 - Data loaded successfully: 1021 IMU points, 958 pressure/light points
+2025-03-02 17:31:14 - INFO - Thresholds: motion=0.076, tilt=32.0, pressure=143.8, light=21.9
+2025-03-02 17:31:14 - Thresholds: motion=0.076, tilt=32.0, pressure=143.8, light=21.9
+2025-03-02 17:31:14 - Pill detection simulation node initialized
+2025-03-02 17:31:14 - Starting pill detection simulation...
+2025-03-02 17:31:14 - Calibrating sensors with initial data...
+2025-03-02 17:31:14 - Pick up detected at 1740936674.2s (trigger: acceleration)
+2025-03-02 17:31:14 - Calibrated rest position: r=-6.99, p=-0.18, y=79.57
+2025-03-02 17:31:14 - Sensor calibration complete.
+2025-03-02 17:31:14 - topic[/pill_detection/imu] adding connection to [/pill_detection_visualizer], count 0
+2025-03-02 17:31:14 - topic[/pill_detection/pressure_light] adding connection to [/pill_detection_visualizer], count 0
+2025-03-02 17:31:14 - topic[/pill_detection/accel_magnitude] adding connection to [/pill_detection_visualizer], count 0
+2025-03-02 17:31:14 - topic[/pill_detection/tilt_magnitude] adding connection to [/pill_detection_visualizer], count 0
+2025-03-02 17:31:14 - topic[/pill_detection/pick_place_events] adding connection to [/pill_detection_visualizer], count 0
+2025-03-02 17:31:14 - topic[/pill_detection/pill_events] adding connection to [/pill_detection_visualizer], count 0
+2025-03-02 17:31:14 - topic[/pill_detection/swallow_events] adding connection to [/pill_detection_visualizer], count 0
+2025-03-02 17:31:14 - topic[/pill_detection/forget_events] adding connection to [/pill_detection_visualizer], count 0
+2025-03-02 17:31:14 - topic[/rosout] adding connection to [/rosout], count 0
+2025-03-02 17:31:15 - topic[/pill_detection/accel_magnitude] adding connection to [/rqt_plot], count 1
+2025-03-02 17:31:15 - topic[/pill_detection/pressure_light] adding connection to [/rqt_plot], count 1
+2025-03-02 17:31:16 - Place down detected at 1740936676.2s (duration: 2.0s, trigger: acceleration)
+2025-03-02 17:31:16 - i: 0, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 1, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 2, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 3, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 4, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 5, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 6, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 7, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 8, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 9, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 10, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 11, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 12, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 13, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 14, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 15, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 16, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 17, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 18, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 19, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 20, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 21, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 22, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 23, len(tilt_change): 24
+2025-03-02 17:31:16 - i: 24, len(tilt_change): 24
+2025-03-02 17:31:16 - PICK-PLACE EVENT DETECTED: 1 total
+2025-03-02 17:31:16 - Pick up detected at 1740936676.7s (trigger: acceleration)
+2025-03-02 17:31:19 - Progress: IMU 1.1%, PL 1.1% at t=5.0s
+2025-03-02 17:31:22 - Place down detected (timeout) at 1740936682.2s
+2025-03-02 17:31:22 - Place down detected at 1740936682.2s (duration: 5.5s, trigger: timeout)
+2025-03-02 17:31:22 - i: 0, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 1, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 2, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 3, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 4, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 5, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 6, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 7, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 8, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 9, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 10, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 11, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 12, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 13, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 14, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 15, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 16, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 17, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 18, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 19, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 20, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 21, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 22, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 23, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 24, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 25, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 26, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 27, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 28, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 29, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 30, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 31, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 32, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 33, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 34, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 35, len(tilt_change): 36
+2025-03-02 17:31:22 - i: 36, len(tilt_change): 36
+2025-03-02 17:31:22 - PICK-PLACE EVENT DETECTED: 2 total
+2025-03-02 17:31:24 - Progress: IMU 2.1%, PL 2.2% at t=10.0s
+2025-03-02 17:31:28 - Raw accel: ax=0.480, ay=0.020, az=0.850
+2025-03-02 17:31:28 - Dynamic accel: ax=0.110, ay=0.040, az=-0.070
+2025-03-02 17:31:28 - Dynamic magnitude: 0.136, Smoothed: 0.224
+2025-03-02 17:31:28 - motion_threshold: 0.07633, accel_smooth: 0.22416
+2025-03-02 17:31:28 - Orientation: r=28.94, p=1.14, y=58.62
+2025-03-02 17:31:28 - Rest: r=-6.99, p=-0.18, y=79.57
+2025-03-02 17:31:28 - Tilt magnitude: 36.50, Tilt change: 6.50
+2025-03-02 17:31:28 - tilt_threshold: 32.05
+2025-03-02 17:31:29 - Progress: IMU 3.0%, PL 3.2% at t=15.0s
+2025-03-02 17:31:34 - Progress: IMU 4.0%, PL 4.3% at t=20.0s
+2025-03-02 17:31:39 - Progress: IMU 5.0%, PL 5.3% at t=25.0s
+2025-03-02 17:31:44 - Progress: IMU 6.0%, PL 6.4% at t=30.0s
+2025-03-02 17:31:49 - Progress: IMU 7.0%, PL 7.4% at t=35.1s
+2025-03-02 17:31:53 - Raw accel: ax=0.390, ay=-0.040, az=0.910
+2025-03-02 17:31:53 - Dynamic accel: ax=0.020, ay=-0.020, az=-0.010
+2025-03-02 17:31:53 - Dynamic magnitude: 0.030, Smoothed: 0.033
+2025-03-02 17:31:53 - motion_threshold: 0.07633, accel_smooth: 0.03334
+2025-03-02 17:31:53 - Orientation: r=22.70, p=-2.58, y=64.85
+2025-03-02 17:31:53 - Rest: r=-6.99, p=-0.18, y=79.57
+2025-03-02 17:31:53 - Tilt magnitude: 30.12, Tilt change: 0.12
+2025-03-02 17:31:53 - tilt_threshold: 32.05
+2025-03-02 17:31:54 - Progress: IMU 7.9%, PL 8.5% at t=40.1s
+2025-03-02 17:31:56 - Pick up detected at 1740936716.7s (trigger: acceleration)
+2025-03-02 17:31:59 - Progress: IMU 8.9%, PL 9.5% at t=45.1s
+2025-03-02 17:32:01 - Place down detected (timeout) at 1740936721.7s
+2025-03-02 17:32:01 - Place down detected at 1740936721.7s (duration: 5.0s, trigger: timeout)
+2025-03-02 17:32:01 - i: 0, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 1, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 2, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 3, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 4, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 5, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 6, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 7, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 8, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 9, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 10, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 11, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 12, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 13, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 14, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 15, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 16, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 17, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 18, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 19, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 20, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 21, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 22, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 23, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 24, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 25, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 26, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 27, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 28, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 29, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 30, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 31, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 32, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 33, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 34, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 35, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 36, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 37, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 38, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 39, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 40, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 41, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 42, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 43, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 44, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 45, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 46, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 47, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 48, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 49, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 50, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 51, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 52, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 53, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 54, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 55, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 56, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 57, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 58, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 59, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 60, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 61, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 62, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 63, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 64, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 65, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 66, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 67, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 68, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 69, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 70, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 71, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 72, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 73, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 74, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 75, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 76, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 77, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 78, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 79, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 80, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 81, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 82, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 83, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 84, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 85, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 86, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 87, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 88, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 89, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 90, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 91, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 92, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 93, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 94, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 95, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 96, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 97, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 98, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 99, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 100, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 101, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 102, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 103, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 104, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 105, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 106, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 107, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 108, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 109, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 110, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 111, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 112, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 113, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 114, len(tilt_change): 115
+2025-03-02 17:32:01 - i: 115, len(tilt_change): 115
+2025-03-02 17:32:01 - PICK-PLACE EVENT DETECTED: 3 total
+2025-03-02 17:32:04 - Progress: IMU 9.9%, PL 10.5% at t=50.1s
+2025-03-02 17:32:09 - Progress: IMU 10.9%, PL 11.6% at t=55.1s
+2025-03-02 17:32:12 - Pick up detected at 1740936732.7s (trigger: acceleration)
+2025-03-02 17:32:12 - signal_shutdown [signal-2]
+2025-03-02 17:32:12 - topic[/rosout] removing connection to /rosout
+2025-03-02 17:32:12 - topic[/pill_detection/imu] removing connection to /pill_detection_visualizer
+2025-03-02 17:32:12 - topic[/pill_detection/pressure_light] removing connection to /pill_detection_visualizer
+2025-03-02 17:32:12 - topic[/pill_detection/pressure_light] removing connection to /rqt_plot
+2025-03-02 17:32:12 - topic[/pill_detection/accel_magnitude] removing connection to /pill_detection_visualizer
+2025-03-02 17:32:12 - topic[/pill_detection/accel_magnitude] removing connection to /rqt_plot
+2025-03-02 17:32:12 - topic[/pill_detection/tilt_magnitude] removing connection to /pill_detection_visualizer
+2025-03-02 17:32:12 - topic[/pill_detection/pick_place_events] removing connection to /pill_detection_visualizer
+2025-03-02 17:32:12 - topic[/pill_detection/pill_events] removing connection to /pill_detection_visualizer
+2025-03-02 17:32:12 - topic[/pill_detection/swallow_events] removing connection to /pill_detection_visualizer
+2025-03-02 17:32:12 - topic[/pill_detection/forget_events] removing connection to /pill_detection_visualizer
+2025-03-02 17:32:12 - signal-2
+2025-03-02 17:32:13 - 
+=== Simulation Summary ===
+2025-03-02 17:32:13 - IMU data points processed: 118 / 1021
+2025-03-02 17:32:13 - Pressure/Light data points processed: 118 / 958
+2025-03-02 17:32:13 - Detected 3 pick-place events
+2025-03-02 17:32:13 - Detected 0 pill retrieval events
+2025-03-02 17:32:13 - 
+Events logged to: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/logs/pill_events_sim_20250302_173114.log
+2025-03-02 17:32:13 - signal_shutdown [atexit]

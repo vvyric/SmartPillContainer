@@ -1,0 +1,220 @@
+Log initialized
+Timestamp: 2025-03-02 16:18:04
+
+2025-03-02 16:18:04 - Successfully created and writing to log at: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/logs/pill_events_sim_20250302_161804.log
+2025-03-02 16:18:04 - Logging system initialized
+2025-03-02 16:18:04 - LOGGING STARTED
+2025-03-02 16:18:04 - ROS node: /pill_detection_simulation
+2025-03-02 16:18:04 - IMU file: data_IMU.txt
+2025-03-02 16:18:04 - Pressure/Light file: data_press_light.txt
+2025-03-02 16:18:04 - Using synthetic test data
+2025-03-02 16:18:04 - Creating synthetic test data
+2025-03-02 16:18:04 - Synthetic test data created with 3 events at t=10-15s, t=30-35s, and t=50-55s
+2025-03-02 16:18:04 - Using thresholds: motion=0.050, tilt=5.0, pressure=50.0, light=50.0
+2025-03-02 16:18:04 - INFO - Data loaded successfully: 200 IMU points, 200 pressure/light points
+2025-03-02 16:18:04 - Data loaded successfully: 200 IMU points, 200 pressure/light points
+2025-03-02 16:18:04 - INFO - Thresholds: motion=0.050, tilt=5.0, pressure=50.0, light=50.0
+2025-03-02 16:18:04 - Thresholds: motion=0.050, tilt=5.0, pressure=50.0, light=50.0
+2025-03-02 16:18:04 - Pill detection simulation node initialized
+2025-03-02 16:18:04 - Starting pill detection simulation...
+2025-03-02 16:18:04 - Calibrating sensors with initial data...
+2025-03-02 16:18:04 - Calibrated rest position: r=0.00, p=0.00, y=0.00
+2025-03-02 16:18:04 - Sensor calibration complete.
+2025-03-02 16:18:04 - topic[/rosout] adding connection to [/rosout], count 0
+2025-03-02 16:18:07 - topic[/pill_detection/accel_magnitude] adding connection to [/rqt_plot_1], count 0
+2025-03-02 16:18:07 - topic[/pill_detection/motion_state] adding connection to [/rqt_plot_1], count 0
+2025-03-02 16:18:08 - topic[/pill_detection/event_status] adding connection to [/rqt_plot_2], count 0
+2025-03-02 16:18:09 - Progress: IMU 5.5%, PL 5.5% at t=5.0s
+2025-03-02 16:18:10 - topic[/pill_detection/pill_events] adding connection to [/rostopic_echo_events], count 0
+2025-03-02 16:18:14 - Progress: IMU 10.5%, PL 10.5% at t=10.0s
+2025-03-02 16:18:15 - Pick up detected at 1740932295.5s
+2025-03-02 16:18:19 - Progress: IMU 15.5%, PL 15.5% at t=15.0s
+2025-03-02 16:18:24 - Place down detected at 1740932304.5s (duration: 9.0s)
+2025-03-02 16:18:24 - 
+!!! PILL EVENT DETECTED !!!
+Pill Event: Time 29015538m 17.0s
+  - Within Pick-Place window: 1740932295.5s to 1740932304.5s
+  - 3D Tilt: 50.00
+  - Orientation: Roll=50.00°, Pitch=0.00°, Yaw=0.00°
+  - Pressure: 200 at 1740932297.0s
+  - Light: 200.00 lux at 1740932297.0s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-02 16:18:24 - PILL EVENT DETECTED
+Pill Event: Time 29015538m 17.0s
+  - Within Pick-Place window: 1740932295.5s to 1740932304.5s
+  - 3D Tilt: 50.00
+  - Orientation: Roll=50.00°, Pitch=0.00°, Yaw=0.00°
+  - Pressure: 200 at 1740932297.0s
+  - Light: 200.00 lux at 1740932297.0s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-02 16:18:24 - Actual time of event: 2025-03-02 16:18:24
+2025-03-02 16:18:24 - PICK-PLACE EVENT DETECTED: 1 total
+2025-03-02 16:18:24 - PILL EVENT DETECTED: 1 total at t=1740932297.0s
+2025-03-02 16:18:24 - INFO - PILL EVENT 1:
+  Time: 1740932297.0s
+  Tilt: 50.00
+  Orientation: r=50.0, p=0.0, y=0.0
+  Pressure: 200.0
+  Light: 200.0
+  Pick-Place: 1740932295.5s - 1740932304.5s
+2025-03-02 16:18:24 - PILL EVENT 1:
+  Time: 1740932297.0s
+  Tilt: 50.00
+  Orientation: r=50.0, p=0.0, y=0.0
+  Pressure: 200.0
+  Light: 200.0
+  Pick-Place: 1740932295.5s - 1740932304.5s
+2025-03-02 16:18:24 - Progress: IMU 20.5%, PL 20.5% at t=20.0s
+2025-03-02 16:18:27 - 
+!!! POSSIBLE FORGOTTEN PILL !!!
+POSSIBLE FORGOTTEN PILL: Time 29015538m 27.0s
+  - Pill taken at: 1740932297.0s
+  - No swallow confirmation received within 10.0s window
+2025-03-02 16:18:27 - POSSIBLE FORGOTTEN PILL
+POSSIBLE FORGOTTEN PILL: Time 29015538m 27.0s
+  - Pill taken at: 1740932297.0s
+  - No swallow confirmation received within 10.0s window
+2025-03-02 16:18:27 - Actual time of forget event: 2025-03-02 16:18:27
+2025-03-02 16:18:29 - Progress: IMU 25.5%, PL 25.5% at t=25.0s
+2025-03-02 16:18:34 - Progress: IMU 30.5%, PL 30.5% at t=30.0s
+2025-03-02 16:18:35 - Pick up detected at 1740932315.5s
+2025-03-02 16:18:39 - Progress: IMU 35.5%, PL 35.5% at t=35.1s
+2025-03-02 16:18:44 - Place down detected at 1740932324.5s (duration: 9.0s)
+2025-03-02 16:18:44 - 
+!!! PILL EVENT DETECTED !!!
+Pill Event: Time 29015538m 37.0s
+  - Within Pick-Place window: 1740932315.5s to 1740932324.5s
+  - 3D Tilt: 50.00
+  - Orientation: Roll=0.00°, Pitch=50.00°, Yaw=0.00°
+  - Pressure: 200 at 1740932317.0s
+  - Light: 200.00 lux at 1740932317.0s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-02 16:18:44 - PILL EVENT DETECTED
+Pill Event: Time 29015538m 37.0s
+  - Within Pick-Place window: 1740932315.5s to 1740932324.5s
+  - 3D Tilt: 50.00
+  - Orientation: Roll=0.00°, Pitch=50.00°, Yaw=0.00°
+  - Pressure: 200 at 1740932317.0s
+  - Light: 200.00 lux at 1740932317.0s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-02 16:18:44 - Actual time of event: 2025-03-02 16:18:44
+2025-03-02 16:18:44 - PICK-PLACE EVENT DETECTED: 2 total
+2025-03-02 16:18:44 - PILL EVENT DETECTED: 2 total at t=1740932317.0s
+2025-03-02 16:18:44 - INFO - PILL EVENT 2:
+  Time: 1740932317.0s
+  Tilt: 50.00
+  Orientation: r=0.0, p=50.0, y=0.0
+  Pressure: 200.0
+  Light: 200.0
+  Pick-Place: 1740932315.5s - 1740932324.5s
+2025-03-02 16:18:44 - PILL EVENT 2:
+  Time: 1740932317.0s
+  Tilt: 50.00
+  Orientation: r=0.0, p=50.0, y=0.0
+  Pressure: 200.0
+  Light: 200.0
+  Pick-Place: 1740932315.5s - 1740932324.5s
+2025-03-02 16:18:44 - Progress: IMU 40.5%, PL 40.5% at t=40.1s
+2025-03-02 16:18:47 - 
+!!! POSSIBLE FORGOTTEN PILL !!!
+POSSIBLE FORGOTTEN PILL: Time 29015538m 47.0s
+  - Pill taken at: 1740932317.0s
+  - No swallow confirmation received within 10.0s window
+2025-03-02 16:18:47 - POSSIBLE FORGOTTEN PILL
+POSSIBLE FORGOTTEN PILL: Time 29015538m 47.0s
+  - Pill taken at: 1740932317.0s
+  - No swallow confirmation received within 10.0s window
+2025-03-02 16:18:47 - Actual time of forget event: 2025-03-02 16:18:47
+2025-03-02 16:18:49 - Progress: IMU 45.5%, PL 45.5% at t=45.1s
+2025-03-02 16:18:54 - Progress: IMU 50.5%, PL 50.5% at t=50.1s
+2025-03-02 16:18:55 - Pick up detected at 1740932335.5s
+2025-03-02 16:18:58 - topic[/pill_detection/pill_events] adding connection to [/rostopic_51244_1740932338629], count 1
+2025-03-02 16:18:59 - Progress: IMU 55.5%, PL 55.5% at t=55.1s
+2025-03-02 16:19:04 - Place down detected at 1740932344.5s (duration: 9.0s)
+2025-03-02 16:19:04 - 
+!!! PILL EVENT DETECTED !!!
+Pill Event: Time 29015538m 57.0s
+  - Within Pick-Place window: 1740932335.5s to 1740932344.5s
+  - 3D Tilt: 50.00
+  - Orientation: Roll=0.00°, Pitch=0.00°, Yaw=50.00°
+  - Pressure: 200 at 1740932337.0s
+  - Light: 200.00 lux at 1740932337.0s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-02 16:19:04 - PILL EVENT DETECTED
+Pill Event: Time 29015538m 57.0s
+  - Within Pick-Place window: 1740932335.5s to 1740932344.5s
+  - 3D Tilt: 50.00
+  - Orientation: Roll=0.00°, Pitch=0.00°, Yaw=50.00°
+  - Pressure: 200 at 1740932337.0s
+  - Light: 200.00 lux at 1740932337.0s
+  - Awaiting swallow confirmation (press and hold pressure sensor within 10s)
+2025-03-02 16:19:04 - Actual time of event: 2025-03-02 16:19:04
+2025-03-02 16:19:04 - PICK-PLACE EVENT DETECTED: 3 total
+2025-03-02 16:19:04 - PILL EVENT DETECTED: 3 total at t=1740932337.0s
+2025-03-02 16:19:04 - INFO - PILL EVENT 3:
+  Time: 1740932337.0s
+  Tilt: 50.00
+  Orientation: r=0.0, p=0.0, y=50.0
+  Pressure: 200.0
+  Light: 200.0
+  Pick-Place: 1740932335.5s - 1740932344.5s
+2025-03-02 16:19:04 - PILL EVENT 3:
+  Time: 1740932337.0s
+  Tilt: 50.00
+  Orientation: r=0.0, p=0.0, y=50.0
+  Pressure: 200.0
+  Light: 200.0
+  Pick-Place: 1740932335.5s - 1740932344.5s
+2025-03-02 16:19:04 - Progress: IMU 60.5%, PL 60.5% at t=60.1s
+2025-03-02 16:19:07 - 
+!!! POSSIBLE FORGOTTEN PILL !!!
+POSSIBLE FORGOTTEN PILL: Time 29015539m 7.0s
+  - Pill taken at: 1740932337.0s
+  - No swallow confirmation received within 10.0s window
+2025-03-02 16:19:07 - POSSIBLE FORGOTTEN PILL
+POSSIBLE FORGOTTEN PILL: Time 29015539m 7.0s
+  - Pill taken at: 1740932337.0s
+  - No swallow confirmation received within 10.0s window
+2025-03-02 16:19:07 - Actual time of forget event: 2025-03-02 16:19:07
+2025-03-02 16:19:09 - Progress: IMU 65.5%, PL 65.5% at t=65.1s
+2025-03-02 16:19:14 - Progress: IMU 70.5%, PL 70.5% at t=70.2s
+2025-03-02 16:19:19 - Progress: IMU 75.5%, PL 75.5% at t=75.2s
+2025-03-02 16:19:24 - Progress: IMU 80.5%, PL 80.5% at t=80.2s
+2025-03-02 16:19:29 - Progress: IMU 85.5%, PL 85.5% at t=85.2s
+2025-03-02 16:19:34 - Progress: IMU 90.5%, PL 90.5% at t=90.2s
+2025-03-02 16:19:39 - Progress: IMU 95.5%, PL 95.5% at t=95.2s
+2025-03-02 16:19:44 - Reached end of recorded data. Simulation complete.
+2025-03-02 16:19:44 - 
+=== Simulation Summary ===
+2025-03-02 16:19:44 - IMU data points processed: 200 / 200
+2025-03-02 16:19:44 - Pressure/Light data points processed: 200 / 200
+2025-03-02 16:19:44 - Detected 3 pick-place events
+2025-03-02 16:19:44 - Detected 3 pill retrieval events
+2025-03-02 16:19:44 - 
+Detailed pill events:
+2025-03-02 16:19:44 - Event 1: Time 29015538m 17.0s
+2025-03-02 16:19:44 -   - 3D Tilt: 50.00
+2025-03-02 16:19:44 -   - Orientation: Roll=50.00°, Pitch=0.00°, Yaw=0.00°
+2025-03-02 16:19:44 -   - Pressure: 200
+2025-03-02 16:19:44 -   - Light: 200.00 lux
+2025-03-02 16:19:44 - Event 2: Time 29015538m 37.0s
+2025-03-02 16:19:44 -   - 3D Tilt: 50.00
+2025-03-02 16:19:44 -   - Orientation: Roll=0.00°, Pitch=50.00°, Yaw=0.00°
+2025-03-02 16:19:44 -   - Pressure: 200
+2025-03-02 16:19:44 -   - Light: 200.00 lux
+2025-03-02 16:19:44 - Event 3: Time 29015538m 57.0s
+2025-03-02 16:19:44 -   - 3D Tilt: 50.00
+2025-03-02 16:19:44 -   - Orientation: Roll=0.00°, Pitch=0.00°, Yaw=50.00°
+2025-03-02 16:19:44 -   - Pressure: 200
+2025-03-02 16:19:44 -   - Light: 200.00 lux
+2025-03-02 16:19:44 - 
+Events logged to: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/logs/pill_events_sim_20250302_161804.log
+2025-03-02 16:19:44 - signal_shutdown [signal-2]
+2025-03-02 16:19:44 - topic[/rosout] removing connection to /rosout
+2025-03-02 16:19:44 - topic[/pill_detection/accel_magnitude] removing connection to /rqt_plot_1
+2025-03-02 16:19:44 - topic[/pill_detection/pill_events] removing connection to /rostopic_echo_events
+2025-03-02 16:19:44 - topic[/pill_detection/pill_events] removing connection to /rostopic_51244_1740932338629
+2025-03-02 16:19:44 - topic[/pill_detection/motion_state] removing connection to /rqt_plot_1
+2025-03-02 16:19:44 - topic[/pill_detection/event_status] removing connection to /rqt_plot_2
+2025-03-02 16:19:44 - signal-2
+2025-03-02 16:19:45 - signal_shutdown [atexit]

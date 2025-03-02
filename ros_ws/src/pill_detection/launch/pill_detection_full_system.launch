@@ -1,0 +1,44 @@
+<launch>
+  <!-- Parameters for the simulation node -->
+  <arg name="imu_file" default="$(find pill_detection)/data/data_IMU.txt" />
+  <arg name="pl_file" default="$(find pill_detection)/data/data_press_light.txt" />
+  <arg name="log_dir" default="$(find pill_detection)/logs" />
+  <arg name="playback_speed" default="1.0" />
+  
+  <!-- Launch the simulation node -->
+  <node name="pill_detection_simulation" pkg="pill_detection" type="pill_detection_simulation_node.py" output="screen">
+    <param name="imu_file" value="$(arg imu_file)" />
+    <param name="pl_file" value="$(arg pl_file)" />
+    <param name="log_dir" value="$(arg log_dir)" />
+    <param name="playback_speed" value="$(arg playback_speed)" />
+
+    <!-- Override default thresholds for better event detection -->
+    <param name="motion_threshold" value="0.03" />
+    <param name="tilt_threshold" value="5.0" />
+    <param name="pressure_threshold" value="50.0" />
+    <param name="light_threshold" value="15.0" />
+
+    <param name="use_synthetic_data" value="false" /> 
+    
+    <!-- Controls for debugging -->
+    <param name="debug_level" value="info" />
+    <param name="force_events" value="false" /> <!-- Not needed with synthetic data -->
+    <param name="playback_speed" value="1.0" />
+    
+    <!-- Log directory -->
+    <param name="log_dir" value="$(find pill_detection)/logs" />
+  </node>
+  
+  <!-- Launch the visualization node -->
+  <node name="pill_detection_visualizer" pkg="pill_detection" type="pill_detection_visualization_node.py" output="screen">
+    <param name="max_time_window" value="60" />
+    <param name="buffer_size" value="5000" />
+  </node>
+  
+  <!-- Launch RQT Plot as an alternative visualization -->
+  <node name="rqt_plot" pkg="rqt_plot" type="rqt_plot" 
+        args="pill_detection/accel_magnitude/x pill_detection/accel_magnitude/y pill_detection/pressure_light/pressure pill_detection/pressure_light/light" />
+  
+  <!-- Launch rqt_graph to visualize the ROS node graph -->
+  <node name="rqt_graph" pkg="rqt_graph" type="rqt_graph" />
+</launch>

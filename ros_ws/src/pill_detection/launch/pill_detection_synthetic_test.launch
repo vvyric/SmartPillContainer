@@ -1,0 +1,37 @@
+
+<launch>
+  <!-- Launch the simulation node with synthetic test data -->
+  <node name="pill_detection_simulation" pkg="pill_detection" type="pill_detection_simulation_node.py" output="screen">
+    <!-- Use synthetic test data that will definitely trigger events -->
+    <param name="use_synthetic_data" value="true" /> 
+    
+    <!-- Controls for debugging -->
+    <param name="debug_level" value="info" />
+    <param name="force_events" value="false" /> <!-- Not needed with synthetic data -->
+    <param name="playback_speed" value="1.0" />
+    
+    <!-- Log directory -->
+    <param name="log_dir" value="$(find pill_detection)/logs" />
+  </node>
+  
+  <!-- Launch RQT Plot for basic visualization -->
+  <!-- Acceleration magnitude and motion status -->
+  <node name="rqt_plot_1" pkg="rqt_plot" type="rqt_plot" 
+        args="/pill_detection/accel_magnitude/x /pill_detection/motion_state/x" 
+        launch-prefix="bash -c 'sleep 2; $0 $@'" />
+  
+  <!-- Event counters -->
+  <node name="rqt_plot_2" pkg="rqt_plot" type="rqt_plot" 
+        args="/pill_detection/event_status/x /pill_detection/event_status/y" 
+        launch-prefix="bash -c 'sleep 3; $0 $@'" />
+  
+  <!-- Show the topics being published -->
+  <node name="rostopic_list" pkg="rostopic" type="rostopic" 
+        args="list" output="screen" 
+        launch-prefix="bash -c 'sleep 5; $0 $@'" />
+  
+  <!-- Show the pill events topic -->
+  <node name="rostopic_echo_events" pkg="rostopic" type="rostopic" 
+        args="echo /pill_detection/pill_events" output="screen" 
+        launch-prefix="bash -c 'sleep 6; $0 $@'" />
+</launch>

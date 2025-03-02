@@ -1,0 +1,35 @@
+<launch>
+  <!-- Parameters for the simulation node -->
+  <arg name="imu_file" default="$(find pill_detection)/data/data_IMU.txt" />
+  <arg name="pl_file" default="$(find pill_detection)/data/data_press_light.txt" />
+  <arg name="log_dir" default="$(find pill_detection)/logs" />
+  <arg name="playback_speed" default="0.5" /> <!-- Slower playback for more reliable detection -->
+  <arg name="force_events" default="false" /> <!-- Force pill events for testing -->
+  
+  <!-- Launch the simulation node -->
+  <node name="pill_detection_simulation" pkg="pill_detection" type="pill_detection_simulation_node.py" output="screen">
+    <param name="imu_file" value="$(arg imu_file)" />
+    <param name="pl_file" value="$(arg pl_file)" />
+    <param name="log_dir" value="$(arg log_dir)" />
+    <param name="playback_speed" value="$(arg playback_speed)" />
+    <param name="force_events" value="$(arg force_events)" />
+    
+    <!-- Override default thresholds for better event detection -->
+    <param name="motion_threshold" value="0.03" />
+    <param name="tilt_threshold" value="5.0" />
+    <param name="pressure_threshold" value="50.0" />
+    <param name="light_threshold" value="15.0" />
+    
+    <!-- Enable debug output -->
+    <param name="debug_level" value="info" />
+  </node>
+  
+  <!-- Launch the rqt_multiplot tool with a custom configuration -->
+  <node name="rqt_multiplot" pkg="rqt_multiplot" type="rqt_multiplot"
+        args="--multiplot-config $(find pill_detection)/config/pill_detection_multiplot.xml"
+        launch-prefix="bash -c 'sleep 3; $0 $@'" />
+  
+  <!-- Launch rqt_graph to visualize the ROS node graph -->
+  <node name="rqt_graph" pkg="rqt_graph" type="rqt_graph" 
+        launch-prefix="bash -c 'sleep 5; $0 $@'" />
+</launch>

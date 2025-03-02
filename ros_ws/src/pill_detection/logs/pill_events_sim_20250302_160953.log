@@ -1,0 +1,50 @@
+Log initialized
+Timestamp: 2025-03-02 16:09:53
+
+2025-03-02 16:09:53 - Successfully created and writing to log at: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/logs/pill_events_sim_20250302_160953.log
+2025-03-02 16:09:53 - Logging system initialized
+2025-03-02 16:09:53 - LOGGING STARTED
+2025-03-02 16:09:53 - ROS node: /pill_detection_simulation
+2025-03-02 16:09:53 - IMU file: data_IMU.txt
+2025-03-02 16:09:53 - Pressure/Light file: data_press_light.txt
+2025-03-02 16:09:53 - Using synthetic test data
+2025-03-02 16:09:53 - Creating synthetic test data
+2025-03-02 16:09:53 - Synthetic test data created with 3 events at t=10-15s, t=30-35s, and t=50-55s
+2025-03-02 16:09:53 - Using thresholds: motion=0.050, tilt=5.0, pressure=50.0, light=50.0
+2025-03-02 16:09:53 - INFO - Data loaded successfully: 200 IMU points, 200 pressure/light points
+2025-03-02 16:09:53 - Data loaded successfully: 200 IMU points, 200 pressure/light points
+2025-03-02 16:09:53 - INFO - Thresholds: motion=0.050, tilt=5.0, pressure=50.0, light=50.0
+2025-03-02 16:09:53 - Thresholds: motion=0.050, tilt=5.0, pressure=50.0, light=50.0
+2025-03-02 16:09:53 - Pill detection simulation node initialized
+2025-03-02 16:09:53 - Starting pill detection simulation...
+2025-03-02 16:09:53 - Calibrating sensors with initial data...
+2025-03-02 16:09:53 - Calibrated rest position: r=0.00, p=0.00, y=0.00
+2025-03-02 16:09:53 - Sensor calibration complete.
+2025-03-02 16:09:53 - topic[/rosout] adding connection to [/rosout], count 0
+2025-03-02 16:09:56 - topic[/pill_detection/accel_magnitude] adding connection to [/rqt_plot_1], count 0
+2025-03-02 16:09:56 - topic[/pill_detection/motion_state] adding connection to [/rqt_plot_1], count 0
+2025-03-02 16:09:57 - topic[/pill_detection/event_status] adding connection to [/rqt_plot_2], count 0
+2025-03-02 16:09:58 - Progress: IMU 5.5%, PL 5.5% at t=5.0s
+2025-03-02 16:09:59 - topic[/pill_detection/pill_events] adding connection to [/rostopic_echo_events], count 0
+2025-03-02 16:10:03 - Progress: IMU 10.5%, PL 10.5% at t=10.0s
+2025-03-02 16:10:08 - Progress: IMU 15.5%, PL 15.5% at t=15.0s
+2025-03-02 16:10:13 - Progress: IMU 20.5%, PL 20.5% at t=20.0s
+2025-03-02 16:10:18 - Progress: IMU 25.5%, PL 25.5% at t=25.0s
+2025-03-02 16:10:23 - Progress: IMU 30.5%, PL 30.5% at t=30.0s
+2025-03-02 16:10:28 - Progress: IMU 35.5%, PL 35.5% at t=35.0s
+2025-03-02 16:10:30 - signal_shutdown [signal-2]
+2025-03-02 16:10:30 - topic[/rosout] removing connection to /rosout
+2025-03-02 16:10:30 - topic[/pill_detection/accel_magnitude] removing connection to /rqt_plot_1
+2025-03-02 16:10:30 - topic[/pill_detection/pill_events] removing connection to /rostopic_echo_events
+2025-03-02 16:10:30 - topic[/pill_detection/motion_state] removing connection to /rqt_plot_1
+2025-03-02 16:10:30 - topic[/pill_detection/event_status] removing connection to /rqt_plot_2
+2025-03-02 16:10:30 - signal-2
+2025-03-02 16:10:31 - 
+=== Simulation Summary ===
+2025-03-02 16:10:31 - IMU data points processed: 75 / 200
+2025-03-02 16:10:31 - Pressure/Light data points processed: 75 / 200
+2025-03-02 16:10:31 - Detected 0 pick-place events
+2025-03-02 16:10:31 - Detected 0 pill retrieval events
+2025-03-02 16:10:31 - 
+Events logged to: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/logs/pill_events_sim_20250302_160953.log
+2025-03-02 16:10:31 - signal_shutdown [atexit]

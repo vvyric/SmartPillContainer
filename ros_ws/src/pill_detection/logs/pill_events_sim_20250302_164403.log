@@ -1,0 +1,151 @@
+Log initialized
+Timestamp: 2025-03-02 16:44:03
+
+2025-03-02 16:44:03 - Successfully created and writing to log at: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/logs/pill_events_sim_20250302_164403.log
+2025-03-02 16:44:03 - Logging system initialized
+2025-03-02 16:44:03 - LOGGING STARTED
+2025-03-02 16:44:03 - ROS node: /pill_detection_simulation
+2025-03-02 16:44:03 - IMU file: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/data/data_IMU.txt
+2025-03-02 16:44:03 - Pressure/Light file: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/data/data_press_light.txt
+2025-03-02 16:44:03 - Using real data files
+2025-03-02 16:44:03 - Loading IMU data from: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/data/data_IMU.txt
+2025-03-02 16:44:03 - Loading pressure/light data from: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/data/data_press_light.txt
+2025-03-02 16:44:03 - Loaded 1021 IMU data points and 958 pressure/light data points
+2025-03-02 16:44:03 - === DATA SUMMARY ===
+2025-03-02 16:44:03 - IMU Data Range:
+2025-03-02 16:44:03 -   Acceleration (g): ax=[-0.590, 0.500], ay=[-0.410, 0.510], az=[0.780, 1.060]
+2025-03-02 16:44:03 -   Orientation (deg): r=[-36.2, 29.7], p=[-24.5, 30.4], y=[51.1, 90.0]
+2025-03-02 16:44:03 - Pressure/Light Data Range:
+2025-03-02 16:44:03 -   Pressure: [0.0, 575.0]
+2025-03-02 16:44:03 -   Light: [0.0, 87.5]
+2025-03-02 16:44:03 - Suggested Thresholds:
+2025-03-02 16:44:03 -   Motion threshold: 0.076
+2025-03-02 16:44:03 -   Tilt threshold: 32.0
+2025-03-02 16:44:03 -   Pressure threshold: 143.8
+2025-03-02 16:44:03 -   Light threshold: 21.9
+2025-03-02 16:44:03 - Using thresholds: motion=0.076, tilt=32.0, pressure=143.8, light=21.9
+2025-03-02 16:44:03 - Using thresholds: motion=0.076, tilt=32.0, pressure=143.8, light=21.9
+2025-03-02 16:44:03 - INFO - Data loaded successfully: 1021 IMU points, 958 pressure/light points
+2025-03-02 16:44:03 - Data loaded successfully: 1021 IMU points, 958 pressure/light points
+2025-03-02 16:44:03 - INFO - Thresholds: motion=0.076, tilt=32.0, pressure=143.8, light=21.9
+2025-03-02 16:44:03 - Thresholds: motion=0.076, tilt=32.0, pressure=143.8, light=21.9
+2025-03-02 16:44:03 - Pill detection simulation node initialized
+2025-03-02 16:44:03 - Starting pill detection simulation...
+2025-03-02 16:44:03 - Calibrating sensors with initial data...
+2025-03-02 16:44:03 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0
+2025-03-02 16:44:03 - motion_threshold: 0.07633333333333334, accel_smooth: 0.007338917632251918
+2025-03-02 16:44:03 - motion_threshold: 0.07633333333333334, accel_smooth: 0.005880833609961056
+2025-03-02 16:44:03 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0035161374800890544
+2025-03-02 16:44:03 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0033471777444604054
+2025-03-02 16:44:03 - motion_threshold: 0.07633333333333334, accel_smooth: 0.00840583504039707
+2025-03-02 16:44:03 - motion_threshold: 0.07633333333333334, accel_smooth: 0.009359555747284087
+2025-03-02 16:44:03 - motion_threshold: 0.07633333333333334, accel_smooth: 0.009631559953168379
+2025-03-02 16:44:03 - motion_threshold: 0.07633333333333334, accel_smooth: 0.009914568456885764
+2025-03-02 16:44:03 - motion_threshold: 0.07633333333333334, accel_smooth: 0.010303746087300957
+2025-03-02 16:44:03 - motion_threshold: 0.07633333333333334, accel_smooth: 0.006452054438510135
+2025-03-02 16:44:03 - motion_threshold: 0.07633333333333334, accel_smooth: 0.004419727835587928
+2025-03-02 16:44:03 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0029715569077114258
+2025-03-02 16:44:03 - motion_threshold: 0.07633333333333334, accel_smooth: 0.001985320907976229
+2025-03-02 16:44:03 - motion_threshold: 0.07633333333333334, accel_smooth: 0.001596143277561035
+2025-03-02 16:44:03 - motion_threshold: 0.07633333333333334, accel_smooth: 0.00038917763041519394
+2025-03-02 16:44:03 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0
+2025-03-02 16:44:03 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0
+2025-03-02 16:44:03 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0
+2025-03-02 16:44:03 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0
+2025-03-02 16:44:03 - Calibrated rest position: r=-6.99, p=-0.18, y=79.57
+2025-03-02 16:44:03 - Sensor calibration complete.
+2025-03-02 16:44:03 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0008993823026387737
+2025-03-02 16:44:03 - topic[/pill_detection/imu] adding connection to [/pill_detection_visualizer], count 0
+2025-03-02 16:44:03 - topic[/pill_detection/pressure_light] adding connection to [/pill_detection_visualizer], count 0
+2025-03-02 16:44:03 - topic[/pill_detection/accel_magnitude] adding connection to [/pill_detection_visualizer], count 0
+2025-03-02 16:44:03 - topic[/pill_detection/tilt_magnitude] adding connection to [/pill_detection_visualizer], count 0
+2025-03-02 16:44:03 - topic[/pill_detection/pick_place_events] adding connection to [/pill_detection_visualizer], count 0
+2025-03-02 16:44:03 - topic[/pill_detection/pill_events] adding connection to [/pill_detection_visualizer], count 0
+2025-03-02 16:44:03 - topic[/pill_detection/swallow_events] adding connection to [/pill_detection_visualizer], count 0
+2025-03-02 16:44:03 - topic[/pill_detection/forget_events] adding connection to [/pill_detection_visualizer], count 0
+2025-03-02 16:44:03 - topic[/rosout] adding connection to [/rosout], count 0
+2025-03-02 16:44:03 - motion_threshold: 0.07633333333333334, accel_smooth: 0.002935567052900745
+2025-03-02 16:44:04 - topic[/pill_detection/accel_magnitude] adding connection to [/rqt_plot], count 1
+2025-03-02 16:44:04 - topic[/pill_detection/pressure_light] adding connection to [/rqt_plot], count 1
+2025-03-02 16:44:04 - motion_threshold: 0.07633333333333334, accel_smooth: 0.00501111607753173
+2025-03-02 16:44:04 - motion_threshold: 0.07633333333333334, accel_smooth: 0.005518188766928556
+2025-03-02 16:44:05 - motion_threshold: 0.07633333333333334, accel_smooth: 0.006296544027758944
+2025-03-02 16:44:05 - motion_threshold: 0.07633333333333334, accel_smooth: 0.010320177735340042
+2025-03-02 16:44:06 - motion_threshold: 0.07633333333333334, accel_smooth: 0.011212569907812298
+2025-03-02 16:44:06 - motion_threshold: 0.07633333333333334, accel_smooth: 0.010720833096774606
+2025-03-02 16:44:07 - motion_threshold: 0.07633333333333334, accel_smooth: 0.011978351667943365
+2025-03-02 16:44:07 - motion_threshold: 0.07633333333333334, accel_smooth: 0.011199996407112977
+2025-03-02 16:44:08 - motion_threshold: 0.07633333333333334, accel_smooth: 0.008262301304869334
+2025-03-02 16:44:08 - Progress: IMU 1.1%, PL 1.1% at t=5.0s
+2025-03-02 16:44:08 - motion_threshold: 0.07633333333333334, accel_smooth: 0.005333724382135108
+2025-03-02 16:44:09 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0037499121685418135
+2025-03-02 16:44:09 - motion_threshold: 0.07633333333333334, accel_smooth: 0.001985320907976229
+2025-03-02 16:44:10 - motion_threshold: 0.07633333333333334, accel_smooth: 0.001985320907976229
+2025-03-02 16:44:10 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0
+2025-03-02 16:44:11 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0
+2025-03-02 16:44:11 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0
+2025-03-02 16:44:12 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0
+2025-03-02 16:44:12 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0
+2025-03-02 16:44:13 - motion_threshold: 0.07633333333333334, accel_smooth: 0.00025304867336455316
+2025-03-02 16:44:13 - Progress: IMU 2.1%, PL 2.2% at t=10.0s
+2025-03-02 16:44:13 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0005060973467291063
+2025-03-02 16:44:14 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0007591460200936595
+2025-03-02 16:44:14 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0012851239971672479
+2025-03-02 16:44:15 - motion_threshold: 0.07633333333333334, accel_smooth: 0.003530992686591361
+2025-03-02 16:44:15 - motion_threshold: 0.07633333333333334, accel_smooth: 0.010479604145523602
+2025-03-02 16:44:16 - motion_threshold: 0.07633333333333334, accel_smooth: 0.011170742119970978
+2025-03-02 16:44:16 - motion_threshold: 0.07633333333333334, accel_smooth: 0.016527502960958996
+2025-03-02 16:44:17 - motion_threshold: 0.07633333333333334, accel_smooth: 0.018107140982209204
+2025-03-02 16:44:17 - motion_threshold: 0.07633333333333334, accel_smooth: 0.01805102680980668
+2025-03-02 16:44:18 - motion_threshold: 0.07633333333333334, accel_smooth: 0.01300508423481681
+2025-03-02 16:44:18 - Progress: IMU 3.0%, PL 3.2% at t=15.0s
+2025-03-02 16:44:18 - motion_threshold: 0.07633333333333334, accel_smooth: 0.012470452495162898
+2025-03-02 16:44:19 - motion_threshold: 0.07633333333333334, accel_smooth: 0.006951661257535213
+2025-03-02 16:44:19 - motion_threshold: 0.07633333333333334, accel_smooth: 0.004937063535936303
+2025-03-02 16:44:20 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0035480526050772677
+2025-03-02 16:44:20 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0020915387798985828
+2025-03-02 16:44:21 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0019195053048538745
+2025-03-02 16:44:21 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0018284870281289889
+2025-03-02 16:44:22 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0034990177996384597
+2025-03-02 16:44:22 - motion_threshold: 0.07633333333333334, accel_smooth: 0.00391738642919297
+2025-03-02 16:44:23 - motion_threshold: 0.07633333333333334, accel_smooth: 0.003238387809912413
+2025-03-02 16:44:23 - Progress: IMU 4.0%, PL 4.3% at t=20.0s
+2025-03-02 16:44:23 - motion_threshold: 0.07633333333333334, accel_smooth: 0.006919020450629998
+2025-03-02 16:44:24 - motion_threshold: 0.07633333333333334, accel_smooth: 0.007740569393884034
+2025-03-02 16:44:24 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0074282620087856134
+2025-03-02 16:44:25 - motion_threshold: 0.07633333333333334, accel_smooth: 0.006426466878607618
+2025-03-02 16:44:25 - motion_threshold: 0.07633333333333334, accel_smooth: 0.006557915232244538
+2025-03-02 16:44:26 - motion_threshold: 0.07633333333333334, accel_smooth: 0.004220292077551857
+2025-03-02 16:44:26 - motion_threshold: 0.07633333333333334, accel_smooth: 0.005133788325612665
+2025-03-02 16:44:27 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0038362001289613313
+2025-03-02 16:44:27 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0037705365099068634
+2025-03-02 16:44:28 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0036997861092624485
+2025-03-02 16:44:28 - Progress: IMU 5.0%, PL 5.3% at t=25.1s
+2025-03-02 16:44:28 - motion_threshold: 0.07633333333333334, accel_smooth: 0.00402105692945891
+2025-03-02 16:44:29 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0023669148039842545
+2025-03-02 16:44:29 - motion_threshold: 0.07633333333333334, accel_smooth: 0.002270884134580209
+2025-03-02 16:44:30 - motion_threshold: 0.07633333333333334, accel_smooth: 0.0021748534651761632
+2025-03-02 16:44:30 - motion_threshold: 0.07633333333333334, accel_smooth: 0.002149573196416532
+2025-03-02 16:44:31 - motion_threshold: 0.07633333333333334, accel_smooth: 0.000262942721242343
+2025-03-02 16:44:31 - signal_shutdown [signal-2]
+2025-03-02 16:44:31 - topic[/rosout] removing connection to /rosout
+2025-03-02 16:44:31 - topic[/pill_detection/imu] removing connection to /pill_detection_visualizer
+2025-03-02 16:44:31 - topic[/pill_detection/pressure_light] removing connection to /pill_detection_visualizer
+2025-03-02 16:44:31 - topic[/pill_detection/pressure_light] removing connection to /rqt_plot
+2025-03-02 16:44:31 - topic[/pill_detection/accel_magnitude] removing connection to /pill_detection_visualizer
+2025-03-02 16:44:31 - topic[/pill_detection/accel_magnitude] removing connection to /rqt_plot
+2025-03-02 16:44:31 - topic[/pill_detection/tilt_magnitude] removing connection to /pill_detection_visualizer
+2025-03-02 16:44:31 - topic[/pill_detection/pick_place_events] removing connection to /pill_detection_visualizer
+2025-03-02 16:44:31 - topic[/pill_detection/pill_events] removing connection to /pill_detection_visualizer
+2025-03-02 16:44:31 - topic[/pill_detection/swallow_events] removing connection to /pill_detection_visualizer
+2025-03-02 16:44:31 - topic[/pill_detection/forget_events] removing connection to /pill_detection_visualizer
+2025-03-02 16:44:31 - signal-2
+2025-03-02 16:44:32 - 
+=== Simulation Summary ===
+2025-03-02 16:44:32 - IMU data points processed: 57 / 1021
+2025-03-02 16:44:32 - Pressure/Light data points processed: 57 / 958
+2025-03-02 16:44:32 - Detected 0 pick-place events
+2025-03-02 16:44:32 - Detected 0 pill retrieval events
+2025-03-02 16:44:32 - 
+Events logged to: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/logs/pill_events_sim_20250302_164403.log
+2025-03-02 16:44:32 - signal_shutdown [atexit]

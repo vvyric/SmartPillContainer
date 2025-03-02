@@ -1,0 +1,56 @@
+Log initialized
+Timestamp: 2025-03-02 17:38:31
+
+2025-03-02 17:38:31 - Successfully created and writing to log at: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/logs/pill_events_sim_20250302_173831.log
+2025-03-02 17:38:31 - Logging system initialized
+2025-03-02 17:38:31 - LOGGING STARTED
+2025-03-02 17:38:31 - ROS node: /pill_detection_simulation
+2025-03-02 17:38:31 - IMU file: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/data/data_IMU.txt
+2025-03-02 17:38:31 - Pressure/Light file: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/data/data_press_light.txt
+2025-03-02 17:38:31 - Using real data files
+2025-03-02 17:38:31 - Loading IMU data from: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/data/data_IMU.txt
+2025-03-02 17:38:31 - Loading pressure/light data from: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/data/data_press_light.txt
+2025-03-02 17:38:31 - Loaded 1021 IMU data points and 958 pressure/light data points
+2025-03-02 17:38:31 - === DATA SUMMARY ===
+2025-03-02 17:38:31 - IMU Data Range:
+2025-03-02 17:38:31 -   Acceleration (g): ax=[-0.590, 0.500], ay=[-0.410, 0.510], az=[0.780, 1.060]
+2025-03-02 17:38:31 -   Orientation (deg): r=[-36.2, 29.7], p=[-24.5, 30.4], y=[51.1, 90.0]
+2025-03-02 17:38:31 - Pressure/Light Data Range:
+2025-03-02 17:38:31 -   Pressure: [0.0, 575.0]
+2025-03-02 17:38:31 -   Light: [0.0, 87.5]
+2025-03-02 17:38:31 - topic[/pill_detection/accel_magnitude] adding connection to [/rqt_plot], count 0
+2025-03-02 17:38:31 - topic[/pill_detection/pressure_light] adding connection to [/rqt_plot], count 0
+2025-03-02 17:38:31 - Suggested Thresholds:
+2025-03-02 17:38:31 - topic[/pill_detection/tilt_magnitude] adding connection to [/rqt_plot], count 0
+2025-03-02 17:38:31 -   Motion threshold: 0.076
+2025-03-02 17:38:31 -   Tilt threshold: 32.0
+2025-03-02 17:38:31 -   Pressure threshold: 143.8
+2025-03-02 17:38:31 -   Light threshold: 21.9
+2025-03-02 17:38:31 - Using thresholds: motion=0.030, tilt=5.0, pressure=50.0, light=15.0
+2025-03-02 17:38:31 - Using thresholds: motion=0.030, tilt=5.0, pressure=50.0, light=15.0
+2025-03-02 17:38:31 - INFO - Data loaded successfully: 1021 IMU points, 958 pressure/light points
+2025-03-02 17:38:31 - Data loaded successfully: 1021 IMU points, 958 pressure/light points
+2025-03-02 17:38:31 - INFO - Thresholds: motion=0.030, tilt=5.0, pressure=50.0, light=15.0
+2025-03-02 17:38:31 - Thresholds: motion=0.030, tilt=5.0, pressure=50.0, light=15.0
+2025-03-02 17:38:31 - Pill detection simulation node initialized
+2025-03-02 17:38:31 - Starting pill detection simulation...
+2025-03-02 17:38:31 - Calibrating sensors with initial data...
+2025-03-02 17:38:31 - Pick up detected at 1740937111.7s (trigger: acceleration)
+2025-03-02 17:38:31 - Significant tilt change detected: 12.01 degrees
+2025-03-02 17:38:31 - Calibrated rest position: r=-6.99, p=-0.18, y=79.57
+2025-03-02 17:38:31 - Sensor calibration complete.
+2025-03-02 17:38:31 - Significant tilt change detected: 21.61 degrees
+2025-03-02 17:38:31 - external shutdown request from [/master]: [/pill_detection_simulation] Reason: new node registered with same name
+2025-03-02 17:38:31 - signal_shutdown [external shutdown request from [/master]: [[/pill_detection_simulation] Reason: new node registered with same name]]
+2025-03-02 17:38:31 - topic[/pill_detection/pressure_light] removing connection to /rqt_plot
+2025-03-02 17:38:31 - topic[/pill_detection/accel_magnitude] removing connection to /rqt_plot
+2025-03-02 17:38:31 - topic[/pill_detection/tilt_magnitude] removing connection to /rqt_plot
+2025-03-02 17:38:31 - 
+=== Simulation Summary ===
+2025-03-02 17:38:31 - IMU data points processed: 1 / 1021
+2025-03-02 17:38:31 - Pressure/Light data points processed: 1 / 958
+2025-03-02 17:38:31 - Detected 0 pick-place events
+2025-03-02 17:38:31 - Detected 0 pill retrieval events
+2025-03-02 17:38:31 - 
+Events logged to: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/logs/pill_events_sim_20250302_173831.log
+2025-03-02 17:38:31 - signal_shutdown [atexit]

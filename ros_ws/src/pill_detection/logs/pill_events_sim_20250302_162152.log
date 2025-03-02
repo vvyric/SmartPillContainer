@@ -1,0 +1,77 @@
+Log initialized
+Timestamp: 2025-03-02 16:21:52
+
+2025-03-02 16:21:52 - Successfully created and writing to log at: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/logs/pill_events_sim_20250302_162152.log
+2025-03-02 16:21:52 - Logging system initialized
+2025-03-02 16:21:52 - LOGGING STARTED
+2025-03-02 16:21:52 - ROS node: /pill_detection_simulation
+2025-03-02 16:21:52 - IMU file: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/data/data_IMU.txt
+2025-03-02 16:21:52 - Pressure/Light file: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/data/data_press_light.txt
+2025-03-02 16:21:52 - Using real data files
+2025-03-02 16:21:52 - Loading IMU data from: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/data/data_IMU.txt
+2025-03-02 16:21:52 - Loading pressure/light data from: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/data/data_press_light.txt
+2025-03-02 16:21:52 - Loaded 1021 IMU data points and 958 pressure/light data points
+2025-03-02 16:21:52 - === DATA SUMMARY ===
+2025-03-02 16:21:52 - IMU Data Range:
+2025-03-02 16:21:52 -   Acceleration (g): ax=[-0.590, 0.500], ay=[-0.410, 0.510], az=[0.780, 1.060]
+2025-03-02 16:21:52 -   Orientation (deg): r=[-36.2, 29.7], p=[-24.5, 30.4], y=[51.1, 90.0]
+2025-03-02 16:21:52 - Pressure/Light Data Range:
+2025-03-02 16:21:52 -   Pressure: [0.0, 575.0]
+2025-03-02 16:21:52 -   Light: [0.0, 87.5]
+2025-03-02 16:21:52 - Suggested Thresholds:
+2025-03-02 16:21:52 -   Motion threshold: 0.076
+2025-03-02 16:21:52 -   Tilt threshold: 32.0
+2025-03-02 16:21:52 -   Pressure threshold: 143.8
+2025-03-02 16:21:52 -   Light threshold: 21.9
+2025-03-02 16:21:52 - Using thresholds: motion=0.030, tilt=5.0, pressure=50.0, light=15.0
+2025-03-02 16:21:52 - Using thresholds: motion=0.030, tilt=5.0, pressure=50.0, light=15.0
+2025-03-02 16:21:52 - INFO - Data loaded successfully: 1021 IMU points, 958 pressure/light points
+2025-03-02 16:21:52 - Data loaded successfully: 1021 IMU points, 958 pressure/light points
+2025-03-02 16:21:52 - INFO - Thresholds: motion=0.030, tilt=5.0, pressure=50.0, light=15.0
+2025-03-02 16:21:52 - Thresholds: motion=0.030, tilt=5.0, pressure=50.0, light=15.0
+2025-03-02 16:21:52 - Pill detection simulation node initialized
+2025-03-02 16:21:52 - Starting pill detection simulation...
+2025-03-02 16:21:52 - Calibrating sensors with initial data...
+2025-03-02 16:21:52 - Calibrated rest position: r=-6.99, p=-0.18, y=79.57
+2025-03-02 16:21:52 - Sensor calibration complete.
+2025-03-02 16:21:52 - topic[/rosout] adding connection to [/rosout], count 0
+2025-03-02 16:21:53 - topic[/pill_detection/accel_magnitude] adding connection to [/rqt_plot], count 0
+2025-03-02 16:21:53 - topic[/pill_detection/tilt_magnitude] adding connection to [/rqt_plot], count 0
+2025-03-02 16:21:53 - topic[/pill_detection/pressure_light] adding connection to [/rqt_plot], count 0
+2025-03-02 16:21:57 - Progress: IMU 1.1%, PL 1.1% at t=5.0s
+2025-03-02 16:22:02 - Progress: IMU 2.1%, PL 2.2% at t=10.0s
+2025-03-02 16:22:07 - Progress: IMU 3.0%, PL 3.2% at t=15.0s
+2025-03-02 16:22:12 - Progress: IMU 4.0%, PL 4.3% at t=20.0s
+2025-03-02 16:22:17 - Progress: IMU 5.0%, PL 5.3% at t=25.1s
+2025-03-02 16:22:22 - Progress: IMU 6.0%, PL 6.4% at t=30.1s
+2025-03-02 16:22:27 - Progress: IMU 7.0%, PL 7.4% at t=35.1s
+2025-03-02 16:22:32 - Progress: IMU 7.9%, PL 8.5% at t=40.1s
+2025-03-02 16:22:37 - Progress: IMU 8.9%, PL 9.5% at t=45.1s
+2025-03-02 16:22:42 - Progress: IMU 9.9%, PL 10.5% at t=50.1s
+2025-03-02 16:22:47 - Progress: IMU 10.9%, PL 11.6% at t=55.1s
+2025-03-02 16:22:49 - topic[/pill_detection/pill_events] adding connection to [/rostopic_52636_1740932569646], count 0
+2025-03-02 16:22:52 - Progress: IMU 11.9%, PL 12.6% at t=60.1s
+2025-03-02 16:22:57 - Progress: IMU 12.8%, PL 13.7% at t=65.2s
+2025-03-02 16:23:02 - Progress: IMU 13.8%, PL 14.7% at t=70.2s
+2025-03-02 16:23:07 - Progress: IMU 14.8%, PL 15.8% at t=75.2s
+2025-03-02 16:23:12 - Progress: IMU 15.8%, PL 16.8% at t=80.2s
+2025-03-02 16:23:17 - Progress: IMU 16.7%, PL 17.8% at t=85.2s
+2025-03-02 16:23:22 - Progress: IMU 17.7%, PL 18.9% at t=90.2s
+2025-03-02 16:23:27 - Progress: IMU 18.7%, PL 19.9% at t=95.2s
+2025-03-02 16:23:32 - Progress: IMU 19.7%, PL 21.0% at t=100.2s
+2025-03-02 16:23:36 - signal_shutdown [signal-2]
+2025-03-02 16:23:36 - topic[/rosout] removing connection to /rosout
+2025-03-02 16:23:36 - topic[/pill_detection/pressure_light] removing connection to /rqt_plot
+2025-03-02 16:23:36 - topic[/pill_detection/accel_magnitude] removing connection to /rqt_plot
+2025-03-02 16:23:36 - topic[/pill_detection/tilt_magnitude] removing connection to /rqt_plot
+2025-03-02 16:23:36 - topic[/pill_detection/pill_events] removing connection to /rostopic_52636_1740932569646
+2025-03-02 16:23:36 - signal-2
+2025-03-02 16:23:37 - 
+=== Simulation Summary ===
+2025-03-02 16:23:37 - IMU data points processed: 208 / 1021
+2025-03-02 16:23:37 - Pressure/Light data points processed: 208 / 958
+2025-03-02 16:23:37 - Detected 0 pick-place events
+2025-03-02 16:23:37 - Detected 0 pill retrieval events
+2025-03-02 16:23:37 - 
+Events logged to: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/logs/pill_events_sim_20250302_162152.log
+2025-03-02 16:23:37 - signal_shutdown [atexit]

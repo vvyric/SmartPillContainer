@@ -1,0 +1,40 @@
+<launch>
+  <!-- Parameters for the simulation node -->
+  <arg name="imu_file" default="$(find pill_detection)/data/data_IMU.txt" />
+  <arg name="pl_file" default="$(find pill_detection)/data/data_press_light.txt" />
+  <arg name="log_dir" default="$(find pill_detection)/logs" />
+  <arg name="playback_speed" default="0.5" /> <!-- Slower playback for more reliable detection -->
+  
+  <!-- Launch the simulation node -->
+  <node name="pill_detection_simulation" pkg="pill_detection" type="pill_detection_simulation_node.py" output="screen">
+    <param name="imu_file" value="$(arg imu_file)" />
+    <param name="pl_file" value="$(arg pl_file)" />
+    <param name="log_dir" value="$(arg log_dir)" />
+    <param name="playback_speed" value="$(arg playback_speed)" />
+  </node>
+  
+  <!-- Launch multiple rqt_plot instances for different sets of data -->
+  <!-- Acceleration data -->
+  <node name="rqt_plot_accel" pkg="rqt_plot" type="rqt_plot" 
+        args="/pill_detection/accel_magnitude/x /pill_detection/accel_magnitude/y" 
+        launch-prefix="bash -c 'sleep 3; $0 $@'" />
+  
+  <!-- Orientation data -->
+  <node name="rqt_plot_imu" pkg="rqt_plot" type="rqt_plot" 
+        args="/pill_detection/imu/orientation/x /pill_detection/imu/orientation/y /pill_detection/imu/orientation/z" 
+        launch-prefix="bash -c 'sleep 4; $0 $@'" />
+  
+  <!-- Pressure and light data -->
+  <node name="rqt_plot_sensors" pkg="rqt_plot" type="rqt_plot" 
+        args="/pill_detection/pressure_light/pressure /pill_detection/pressure_light/light" 
+        launch-prefix="bash -c 'sleep 5; $0 $@'" />
+        
+  <!-- Tilt magnitude data -->
+  <node name="rqt_plot_tilt" pkg="rqt_plot" type="rqt_plot" 
+        args="/pill_detection/tilt_magnitude/x /pill_detection/tilt_magnitude/y" 
+        launch-prefix="bash -c 'sleep 6; $0 $@'" />
+        
+  <!-- Launch rqt_graph to visualize the ROS node graph -->
+  <node name="rqt_graph" pkg="rqt_graph" type="rqt_graph" 
+        launch-prefix="bash -c 'sleep 7; $0 $@'" />
+</launch>

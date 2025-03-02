@@ -1,0 +1,85 @@
+Log initialized
+Timestamp: 2025-03-02 15:56:29
+
+2025-03-02 15:56:29 - Successfully created and writing to log at: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/logs/pill_events_sim_20250302_155629.log
+2025-03-02 15:56:29 - Logging system initialized
+2025-03-02 15:56:29 - LOGGING STARTED
+2025-03-02 15:56:29 - ROS node: /pill_detection_simulation
+2025-03-02 15:56:29 - IMU file: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/data/data_IMU.txt
+2025-03-02 15:56:29 - Pressure/Light file: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/data/data_press_light.txt
+2025-03-02 15:56:29 - Loading IMU data from: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/data/data_IMU.txt
+2025-03-02 15:56:29 - Loading pressure/light data from: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/data/data_press_light.txt
+2025-03-02 15:56:29 - Loaded 1021 IMU data points and 958 pressure/light data points
+2025-03-02 15:56:29 - IMU data time range: 0 to 510000 ms
+2025-03-02 15:56:29 - Pressure/Light data time range: 0 to 478500 ms
+2025-03-02 15:56:29 - Pill detection simulation node initialized
+2025-03-02 15:56:29 - Starting pill detection simulation...
+2025-03-02 15:56:29 - Calibrating sensors with initial data...
+2025-03-02 15:56:29 - Calibrated rest position: r=-6.99, p=-0.18, y=79.57
+2025-03-02 15:56:29 - Sensor calibration complete.
+2025-03-02 15:56:29 - 
+!!! FORCED PILL EVENT CREATED at 0.0s !!!
+2025-03-02 15:56:30 - topic[/rosout] adding connection to [/rosout], count 0
+2025-03-02 15:56:30 - 
+!!! POSSIBLE FORGOTTEN PILL !!!
+POSSIBLE FORGOTTEN PILL: Time 29015516m 30.9s
+  - Pill taken at: 0.0s
+  - No swallow confirmation received within 10.0s window
+2025-03-02 15:56:30 - POSSIBLE FORGOTTEN PILL
+POSSIBLE FORGOTTEN PILL: Time 29015516m 30.9s
+  - Pill taken at: 0.0s
+  - No swallow confirmation received within 10.0s window
+2025-03-02 15:56:30 - Actual time of forget event: 2025-03-02 15:56:30
+2025-03-02 15:56:49 - 
+!!! FORCED PILL EVENT CREATED at 10.0s !!!
+2025-03-02 15:56:50 - 
+!!! POSSIBLE FORGOTTEN PILL !!!
+POSSIBLE FORGOTTEN PILL: Time 29015516m 50.9s
+  - Pill taken at: 10.0s
+  - No swallow confirmation received within 10.0s window
+2025-03-02 15:56:50 - POSSIBLE FORGOTTEN PILL
+POSSIBLE FORGOTTEN PILL: Time 29015516m 50.9s
+  - Pill taken at: 10.0s
+  - No swallow confirmation received within 10.0s window
+2025-03-02 15:56:50 - Actual time of forget event: 2025-03-02 15:56:50
+2025-03-02 15:57:09 - 
+!!! FORCED PILL EVENT CREATED at 20.0s !!!
+2025-03-02 15:57:10 - 
+!!! POSSIBLE FORGOTTEN PILL !!!
+POSSIBLE FORGOTTEN PILL: Time 29015517m 10.9s
+  - Pill taken at: 20.0s
+  - No swallow confirmation received within 10.0s window
+2025-03-02 15:57:10 - POSSIBLE FORGOTTEN PILL
+POSSIBLE FORGOTTEN PILL: Time 29015517m 10.9s
+  - Pill taken at: 20.0s
+  - No swallow confirmation received within 10.0s window
+2025-03-02 15:57:10 - Actual time of forget event: 2025-03-02 15:57:10
+2025-03-02 15:57:11 - signal_shutdown [signal-2]
+2025-03-02 15:57:11 - topic[/rosout] removing connection to /rosout
+2025-03-02 15:57:11 - signal-2
+2025-03-02 15:57:11 - 
+=== Simulation Summary ===
+2025-03-02 15:57:11 - IMU data points processed: 42 / 1021
+2025-03-02 15:57:11 - Pressure/Light data points processed: 42 / 958
+2025-03-02 15:57:11 - Detected 0 pick-place events
+2025-03-02 15:57:11 - Detected 3 pill retrieval events
+2025-03-02 15:57:11 - 
+Detailed pill events:
+2025-03-02 15:57:11 - Event 1: Time 0m 0.0s
+2025-03-02 15:57:11 -   - 3D Tilt: 10.00
+2025-03-02 15:57:11 -   - Orientation: Roll=21.42°, Pitch=-1.07°, Yaw=66.63°
+2025-03-02 15:57:11 -   - Pressure: 0
+2025-03-02 15:57:11 -   - Light: 77.50 lux
+2025-03-02 15:57:11 - Event 2: Time 0m 10.0s
+2025-03-02 15:57:11 -   - 3D Tilt: 10.00
+2025-03-02 15:57:11 -   - Orientation: Roll=-7.29°, Pitch=0.02°, Yaw=79.56°
+2025-03-02 15:57:11 -   - Pressure: 0
+2025-03-02 15:57:11 -   - Light: 0.00 lux
+2025-03-02 15:57:11 - Event 3: Time 0m 20.0s
+2025-03-02 15:57:11 -   - 3D Tilt: 10.00
+2025-03-02 15:57:11 -   - Orientation: Roll=14.11°, Pitch=-1.34°, Yaw=74.37°
+2025-03-02 15:57:11 -   - Pressure: 446
+2025-03-02 15:57:11 -   - Light: 56.67 lux
+2025-03-02 15:57:11 - 
+Events logged to: /workspaces/LongSequence_MasterThesis/CACOM/catkin_ws/src/pill_detection/logs/pill_events_sim_20250302_155629.log
+2025-03-02 15:57:11 - signal_shutdown [atexit]
