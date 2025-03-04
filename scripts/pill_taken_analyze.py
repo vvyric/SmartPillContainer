@@ -717,8 +717,8 @@ def analyze_dose_time_patterns(df):
 
 def main():
     # Ask for the log file path
-    # log_file_path = input("Enter the path to the pill log file: ")
-    log_file_path = "/workspaces/LongSequence_MasterThesis/CACOM/synthetic_pill_log_feb2025.log"
+    log_file_path = input("Enter the path to the pill log file: ")
+    
     
     # Ask for the expected number of daily pills
     try:

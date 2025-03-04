@@ -27,21 +27,12 @@ It can detect:
 
 ## Installation
 
-1. Clone this repository into your catkin workspace:
-   ```bash
-   cd ~/catkin_ws/src
-   git clone https://github.com/yourusername/pill_detection.git
-   ```
 
-2. Make the Python scripts executable:
-   ```bash
-   chmod +x ~/catkin_ws/src/pill_detection/scripts/*.py
-   ```
 
-3. Build the package:
+1. Build the package:
    ```bash
    cd ~/catkin_ws
-   catkin_make
+   catkin build
    ```
 
 4. Source your workspace:
