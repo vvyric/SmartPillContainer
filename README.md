@@ -8,11 +8,11 @@ Repo for project of CACOM: A Smart Pill Container for Accurate Pill Retrieval De
 
 ```plots```: plots of data analysis.
 
-```log``` the log the alghorithm save.
+```log```: the log the alghorithm save.
 
-```data``` save the recorded raw data from the sensor.
+```data```: save the recorded raw data from the sensor.
 
-```scripts```: 
+```scripts```: save the python scripts
 
     * ```event_detenction.py```: normal event detection without swallow confirmation
     
