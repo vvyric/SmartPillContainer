@@ -311,7 +311,7 @@ def visualize_pill_data(df, daily_status, summary):
     
     # Set up the figure with subplots
     plt.style.use('ggplot')
-    fig = plt.figure(figsize=(15, 12))
+    fig = plt.figure(figsize=(15, 15))
     spec = gridspec.GridSpec(ncols=1, nrows=3, height_ratios=[4, 3, 3])
     
     # 1. Scatter plot of pill events by time of day
@@ -671,7 +671,7 @@ def analyze_dose_time_patterns(df):
     axes[0].set_title('Pill Status by Dose Time', fontsize=14)
     axes[0].set_xlabel('Dose Time')
     axes[0].set_ylabel('Number of Pills')
-    axes[0].legend(['Confirmed', 'Forgotten', 'Missed'])
+    axes[0].legend(['Forgotten', 'Missed', 'Confirmed'])
     axes[0].grid(True, linestyle='--', alpha=0.7, axis='y')
     
     # Calculate and display percentages above each bar
@@ -708,7 +708,7 @@ def analyze_dose_time_patterns(df):
     axes[1].set_title('Pill Status by Hour of Day', fontsize=14)
     axes[1].set_xlabel('Hour of Day')
     axes[1].set_ylabel('Number of Pills')
-    axes[1].legend(['Confirmed', 'Forgotten', 'Missed'])
+    axes[1].legend(['Forgotten', 'Missed', 'Confirmed'])
     axes[1].grid(True, linestyle='--', alpha=0.7, axis='y')
     axes[1].set_xticklabels([f"{h:02d}:00" for h in waking_hours])
     
@@ -718,7 +718,7 @@ def analyze_dose_time_patterns(df):
 def main():
     # Ask for the log file path
     # log_file_path = input("Enter the path to the pill log file: ")
-    log_file_path = "/workspaces/LongSequence_MasterThesis/CACOM/synthetic_pill_log_jan2025.log"
+    log_file_path = "/workspaces/LongSequence_MasterThesis/CACOM/synthetic_pill_log_feb2025.log"
     
     # Ask for the expected number of daily pills
     try:
