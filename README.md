@@ -13,6 +13,7 @@ Repo for project of CACOM: A Smart Pill Container for Accurate Pill Retrieval De
 ```data``` save the recorded raw data from the sensor.
 
 ```scripts```: 
+
     * ```event_detenction.py```: normal event detection without swallow confirmation
     
     * ```event_detection_swallow_confirmation.py```: enhanced event detection with swallow confimation
