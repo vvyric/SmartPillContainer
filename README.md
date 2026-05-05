@@ -4,6 +4,13 @@ Repo for project of CACOM: A Smart Pill Container for Accurate Pill Retrieval De
 Project description:
 Smart Pill Container is a low-cost medication adherence monitoring system designed to detect and record pill-taking behavior more accurately than conventional reminder-based solutions. The project combines an Arduino-based embedded platform with a 9-axis IMU, light sensor, and pressure sensor to identify key actions such as bottle pickup, opening, tilting, grasping, and active swallow confirmation. A multi-stage event detection algorithm was developed to reduce false positives and distinguish between successful medication intake, forgotten doses, and incomplete attempts. The system also includes ROS-based communication for IoT integration and supports statistical visualization of adherence patterns, enabling both patients and healthcare providers to better monitor medication routines and identify risk periods for non-adherence.
 
+## Demo
+
+
+https://github.com/user-attachments/assets/9a029313-84b2-4883-ae5f-e7d35c1c2de6
+
+
+
 ## Folder Description:
 - **hardware/**: Folder contains codes for hardware.
 - **notebook/**: Folder contains basic analysis of raw data from hardware.
